@@ -1,1 +1,1 @@
-{"_id":"bMnHSvaeRhlz","content":"Maxim for life: You get treated in life the way you teach people to treat you.","author":"Wayne Dyer","tags":["Famous Quotes"],"authorSlug":"wayne-dyer","length":78,"dateAdded":"2020-02-22","dateModified":"2023-04-14"}
+{"_id":"OATcVT3HPV","content":"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.","author":"Kahlil Gibran","tags":["Wisdom"],"authorSlug":"kahlil-gibran","length":124,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
