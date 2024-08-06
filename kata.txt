@@ -1,1 +1,1 @@
-{"_id":"fAyIjkZePx","content":"He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God.","author":"Aeschylus","tags":["Wisdom"],"authorSlug":"aeschylus","length":195,"dateAdded":"2019-07-03","dateModified":"2023-04-14"}
+{"_id":"_ZVOiIVt8xAR","content":"Gratitude is riches. Complaint is poverty.","author":"Doris Day","tags":["Famous Quotes"],"authorSlug":"doris-day","length":42,"dateAdded":"2021-01-19","dateModified":"2023-04-14"}
