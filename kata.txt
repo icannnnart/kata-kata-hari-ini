@@ -1,1 +1,1 @@
-{"_id":"jMqrBbKA-Hm","content":"All our knowledge has its origins in our perceptions.","author":"Leonardo da Vinci","tags":["Famous Quotes"],"authorSlug":"leonardo-da-vinci","length":53,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
+{"_id":"Z5HhvrGNn3_Y","content":"There is nothing happens to any person but what was in his power to go through with.","author":"Marcus Aurelius","tags":["Famous Quotes"],"authorSlug":"marcus-aurelius","length":84,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
