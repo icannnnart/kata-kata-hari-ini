@@ -1,1 +1,1 @@
-{"_id":"nBSAX0LazBDt","content":"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.","author":"Albert Einstein","tags":["Famous Quotes","Life","Success"],"authorSlug":"albert-einstein","length":111,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"C_EJRDWmZ4vi","content":"He who knows that enough is enough will always have enough.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":59,"dateAdded":"2019-06-13","dateModified":"2023-04-14"}
