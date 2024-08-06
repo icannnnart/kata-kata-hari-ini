@@ -1,1 +1,1 @@
-{"_id":"kSFeXJtKMAfD","content":"Much wisdom often goes with fewer words.","author":"Sophocles","tags":["Famous Quotes"],"authorSlug":"sophocles","length":40,"dateAdded":"2020-03-11","dateModified":"2023-04-14"}
+{"_id":"UGTlczrORBij","content":"Nobody made a greater mistake than he who did nothing because he could do only a little.","author":"Edmund Burke","tags":["Famous Quotes"],"authorSlug":"edmund-burke","length":88,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
