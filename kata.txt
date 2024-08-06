@@ -1,1 +1,1 @@
-{"_id":"TLfamqFncI8p","content":"There are no failures. Just experiences and your reactions to them.","author":"Tom Krause","tags":["Famous Quotes"],"authorSlug":"tom-krause","length":67,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
+{"_id":"kSFeXJtKMAfD","content":"Much wisdom often goes with fewer words.","author":"Sophocles","tags":["Famous Quotes"],"authorSlug":"sophocles","length":40,"dateAdded":"2020-03-11","dateModified":"2023-04-14"}
