@@ -38,7 +38,7 @@ $response = curl_exec($ch);
 
 curl_close($ch);
 
-file_put_contents('kata.txt',$response);
+file_put_contents('kata.txt',$response->content);
 
 // Path ke direktori proyek Anda
 $projectDir = '/home/perkutut/ihsan/kata-kata-hari-ini';

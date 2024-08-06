@@ -1,1 +1,0 @@
-{"_id":"0UR-CxrV5U","content":"It is not wisdom but Authority that makes a law.","author":"Thomas Hobbes","tags":["Wisdom"],"authorSlug":"thomas-hobbes","length":48,"dateAdded":"2021-01-11","dateModified":"2023-04-14"}
