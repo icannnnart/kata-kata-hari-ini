@@ -1,1 +1,1 @@
-{"_id":"x7tlrkytHdDg","content":"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance.","author":"Thomas Carlyle","tags":["Famous Quotes"],"authorSlug":"thomas-carlyle","length":137,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
+{"_id":"TLfamqFncI8p","content":"There are no failures. Just experiences and your reactions to them.","author":"Tom Krause","tags":["Famous Quotes"],"authorSlug":"tom-krause","length":67,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
