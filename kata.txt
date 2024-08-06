@@ -1,1 +1,1 @@
-{"_id":"TGjbJGdKmhb","content":"If you only have a hammer, you tend to see every problem as a nail.","author":"Abraham Maslow","tags":["Wisdom"],"authorSlug":"abraham-maslow","length":67,"dateAdded":"2020-02-27","dateModified":"2023-04-14"}
+{"_id":"bMnHSvaeRhlz","content":"Maxim for life: You get treated in life the way you teach people to treat you.","author":"Wayne Dyer","tags":["Famous Quotes"],"authorSlug":"wayne-dyer","length":78,"dateAdded":"2020-02-22","dateModified":"2023-04-14"}
