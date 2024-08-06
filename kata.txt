@@ -1,1 +1,1 @@
-{"_id":"rXZQtra6Obce","content":"If opportunity doesn't knock, build a door.","author":"Milton Berle","tags":["Famous Quotes"],"authorSlug":"milton-berle","length":43,"dateAdded":"2021-02-12","dateModified":"2023-04-14"}
+{"_id":"TxvV88zUrVi3","content":"Keep silence for the most part, and speak only when you must, and then briefly.","author":"Epictetus","tags":["Famous Quotes"],"authorSlug":"epictetus","length":79,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
