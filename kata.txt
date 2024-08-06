@@ -1,1 +1,1 @@
-{"_id":"TxvV88zUrVi3","content":"Keep silence for the most part, and speak only when you must, and then briefly.","author":"Epictetus","tags":["Famous Quotes"],"authorSlug":"epictetus","length":79,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
+{"_id":"4y3iRzObjqK1","content":"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.","author":"Marcel Proust","tags":["Famous Quotes","Friendship"],"authorSlug":"marcel-proust","length":107,"dateAdded":"2019-12-23","dateModified":"2023-04-14"}
