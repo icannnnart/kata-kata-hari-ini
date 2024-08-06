@@ -1,1 +1,1 @@
-{"_id":"Z5HhvrGNn3_Y","content":"There is nothing happens to any person but what was in his power to go through with.","author":"Marcus Aurelius","tags":["Famous Quotes"],"authorSlug":"marcus-aurelius","length":84,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"TGjbJGdKmhb","content":"If you only have a hammer, you tend to see every problem as a nail.","author":"Abraham Maslow","tags":["Wisdom"],"authorSlug":"abraham-maslow","length":67,"dateAdded":"2020-02-27","dateModified":"2023-04-14"}
