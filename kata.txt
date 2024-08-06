@@ -1,1 +1,1 @@
-{"_id":"4y3iRzObjqK1","content":"Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom.","author":"Marcel Proust","tags":["Famous Quotes","Friendship"],"authorSlug":"marcel-proust","length":107,"dateAdded":"2019-12-23","dateModified":"2023-04-14"}
+{"_id":"FI5mThj-syB4","content":"We are what we repeatedly do. Excellence, then, is not an act, but a habit.","author":"Aristotle","tags":["Famous Quotes"],"authorSlug":"aristotle","length":75,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
