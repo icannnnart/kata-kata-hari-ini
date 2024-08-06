@@ -1,1 +1,1 @@
-{"_id":"UGTlczrORBij","content":"Nobody made a greater mistake than he who did nothing because he could do only a little.","author":"Edmund Burke","tags":["Famous Quotes"],"authorSlug":"edmund-burke","length":88,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
+{"_id":"jMqrBbKA-Hm","content":"All our knowledge has its origins in our perceptions.","author":"Leonardo da Vinci","tags":["Famous Quotes"],"authorSlug":"leonardo-da-vinci","length":53,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
