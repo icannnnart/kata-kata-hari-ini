@@ -1,1 +1,1 @@
-{"_id":"AdVXiA8jCiT","content":"Reality leaves a lot to the imagination.","author":"John Lennon","tags":["Famous Quotes"],"authorSlug":"john-lennon","length":40,"dateAdded":"2020-12-06","dateModified":"2023-04-14"}
+{"_id":"Buj9pGsSeK","content":"The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.","author":"Peter Abelard","tags":["Wisdom"],"authorSlug":"peter-abelard","length":144,"dateAdded":"2019-06-13","dateModified":"2023-04-14"}
