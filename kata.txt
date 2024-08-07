@@ -1,1 +1,1 @@
-{"_id":"ptXvSKlkU4E7","content":"Many of life's failures are people who did not realize how close they were to success when they gave up.","author":"Thomas Edison","tags":["Famous Quotes","Success"],"authorSlug":"thomas-edison","length":104,"dateAdded":"2020-12-10","dateModified":"2023-04-14"}
+{"_id":"CJuMv920yzP","content":"Life is just a chance to grow a soul.","author":"A. Powell Davies","tags":["Famous Quotes","Life"],"authorSlug":"a-powell-davies","length":37,"dateAdded":"2019-12-02","dateModified":"2023-04-14"}
