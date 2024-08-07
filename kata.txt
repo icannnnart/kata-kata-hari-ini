@@ -1,1 +1,1 @@
-{"_id":"C_EJRDWmZ4vi","content":"He who knows that enough is enough will always have enough.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":59,"dateAdded":"2019-06-13","dateModified":"2023-04-14"}
+{"_id":"ElHdPHLQGGGK","content":"It does not matter how slowly you go as long as you do not stop.","author":"Confucius","tags":["Famous Quotes","Inspirational"],"authorSlug":"confucius","length":64,"dateAdded":"2019-03-17","dateModified":"2023-04-14"}
