@@ -1,1 +1,1 @@
-{"_id":"NeX-2_82sj","content":"Knowledge is of no value unless you put it into practice.","author":"Anton Chekhov","tags":["Wisdom"],"authorSlug":"anton-chekhov","length":57,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
+{"_id":"AdVXiA8jCiT","content":"Reality leaves a lot to the imagination.","author":"John Lennon","tags":["Famous Quotes"],"authorSlug":"john-lennon","length":40,"dateAdded":"2020-12-06","dateModified":"2023-04-14"}
