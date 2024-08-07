@@ -1,1 +1,1 @@
-{"_id":"rfJp893hM2Z","author":"The Buddha","content":"Some do not understand that we must die, But those who do realize this settle their quarrels.","tags":["Wisdom","Life"],"authorSlug":"the-buddha","length":93,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
+{"_id":"q62wq_5P1uZO","content":"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.","author":"William Penn","tags":["Famous Quotes"],"authorSlug":"william-penn","length":113,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
