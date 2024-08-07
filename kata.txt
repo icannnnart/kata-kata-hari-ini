@@ -1,1 +1,1 @@
-{"_id":"CJuMv920yzP","content":"Life is just a chance to grow a soul.","author":"A. Powell Davies","tags":["Famous Quotes","Life"],"authorSlug":"a-powell-davies","length":37,"dateAdded":"2019-12-02","dateModified":"2023-04-14"}
+{"_id":"_mOXeW2AnSF","content":"One today is worth two tomorrows.","author":"Benjamin Franklin","tags":["Famous Quotes"],"authorSlug":"benjamin-franklin","length":33,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
