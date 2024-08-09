@@ -12,7 +12,7 @@ function runCommand($command) {
     return $output;
 }
 ngulang:
-for ($i=0; $i <= 15; $i++) { 
+for ($i=0; $i <= 35; $i++) { 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, 'https://api.quotable.io/random');
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -57,13 +57,13 @@ for ($i=0; $i <= 15; $i++) {
     runCommand('git push');
 
     
-    if ($i == 10) {
+    if ($i == 30) {
         print_r("done hari ini tunggu besok \n");
         sleep(90000);
         goto ngulang;
     } else {
         echo "Git commands executed successfully.\n";
-        sleep(5);
+        sleep(10);
         exec('clear');
     }
     
