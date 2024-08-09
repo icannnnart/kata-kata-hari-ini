@@ -1,1 +1,1 @@
-{"_id":"n1CKSLhX-iSp","content":"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable.","author":"Kathleen Norris","tags":["Famous Quotes"],"authorSlug":"kathleen-norris","length":106,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
+{"_id":"lDffUvkJEnv0","content":"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.","author":"Wayne Dyer","tags":["Famous Quotes"],"authorSlug":"wayne-dyer","length":109,"dateAdded":"2019-03-15","dateModified":"2023-04-14"}
