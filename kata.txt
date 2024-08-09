@@ -1,1 +1,1 @@
-{"_id":"Fg4uCgQpOYMw","content":"This is the final test of a gentleman: his respect for those who can be of no possible value to him.","author":"William Lyon Phelps","tags":["Wisdom","Life"],"authorSlug":"william-lyon-phelps","length":100,"dateAdded":"2019-01-08","dateModified":"2023-04-14"}
+{"_id":"AkrNJyl-mYhj","content":"The shoe that fits one person pinches another; there is no recipe for living that suits all cases.","author":"Carl Jung","tags":["Famous Quotes"],"authorSlug":"carl-jung","length":98,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
