@@ -1,1 +1,1 @@
-{"_id":"KfOJkr869PQo","content":"A hero is no braver than an ordinary man, but he is braver five minutes longer.","author":"Ralph Waldo Emerson","tags":["Famous Quotes"],"authorSlug":"ralph-waldo-emerson","length":79,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
+{"_id":"hUUF65Y82g7","content":"Life shrinks or expands in proportion to one's courage.","author":"Anaïs Nin","tags":["Famous Quotes"],"authorSlug":"anais-nin","length":55,"dateAdded":"2020-02-07","dateModified":"2023-04-14"}
