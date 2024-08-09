@@ -1,1 +1,1 @@
-{"_id":"y1yjB7RbU_Aq","content":"Small opportunities are often the beginning of great enterprises.","author":"Demosthenes","tags":["Famous Quotes"],"authorSlug":"demosthenes","length":65,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
+{"_id":"jGNbZBKJFhRZ","content":"Be sure you put your feet in the right place, then stand firm.","author":"Abraham Lincoln","tags":["Famous Quotes","Wisdom"],"authorSlug":"abraham-lincoln","length":62,"dateAdded":"2021-01-10","dateModified":"2023-04-14"}
