@@ -1,1 +1,1 @@
-{"_id":"4Ooefeml0d","content":"It's better to be a lion for a day than a sheep all your life.","author":"Elizabeth Kenny","tags":["Wisdom"],"authorSlug":"elizabeth-kenny","length":62,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
+{"_id":"mQqRWF49Ug","content":"The ultimate promise of technology is to make us master of a world that we command by the push of a button.","author":"Volker Grassmuck","tags":["Technology"],"authorSlug":"volker-grassmuck","length":107,"dateAdded":"2020-03-11","dateModified":"2023-04-14"}
