@@ -1,1 +1,1 @@
-{"_id":"NrhUkykn4F","content":"Marriage: A friendship recognized by the police.","author":"Robert Louis Stevenson","tags":["Friendship"],"authorSlug":"robert-louis-stevenson","length":48,"dateAdded":"2019-02-21","dateModified":"2023-04-14"}
+{"_id":"ZIUHncH2frxc","content":"The winner ain't the one with the fastest car it's the one who refuses to lose.","author":"Dale Earnhardt","tags":["Famous Quotes"],"authorSlug":"dale-earnhardt","length":79,"dateAdded":"2021-01-10","dateModified":"2023-04-14"}
