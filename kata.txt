@@ -1,1 +1,1 @@
-{"_id":"HvG-tlzaCwnS","content":"Face your deficiencies and acknowledge them; but do not let them master you. Let them teach you patience, sweetness, insight.","author":"Helen Keller","tags":["Famous Quotes"],"authorSlug":"helen-keller","length":125,"dateAdded":"2019-12-14","dateModified":"2023-04-14"}
+{"_id":"jiQwZPD3W","content":"To conquer fear is the beginning of wisdom.","author":"Bertrand Russell","tags":["Wisdom"],"authorSlug":"bertrand-russell","length":43,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
