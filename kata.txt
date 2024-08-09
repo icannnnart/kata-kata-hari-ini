@@ -1,1 +1,1 @@
-{"_id":"YqOPx7bH29","author":"William Shakespeare","content":"Action is eloquence.","tags":["Literature"],"authorSlug":"william-shakespeare","length":20,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
+{"_id":"4Ooefeml0d","content":"It's better to be a lion for a day than a sheep all your life.","author":"Elizabeth Kenny","tags":["Wisdom"],"authorSlug":"elizabeth-kenny","length":62,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
