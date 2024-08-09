@@ -1,1 +1,1 @@
-{"_id":"tGYwoizLeygM","content":"All I can say about life is, Oh God, enjoy it!","author":"Bob Newhart","tags":["Life"],"authorSlug":"bob-newhart","length":46,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
+{"_id":"Rqv9duD-Lc","author":"Barry Switzer","content":"Some people are born on third base and go through life thinking they hit a triple.","tags":["Sports","Competition"],"authorSlug":"barry-switzer","length":82,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
