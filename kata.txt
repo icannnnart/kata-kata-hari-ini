@@ -1,1 +1,1 @@
-{"_id":"DQFsUHF3g12U","content":"A wise man can learn more from a foolish question than a fool can learn from a wise answer.","author":"Bruce Lee","tags":["Famous Quotes"],"authorSlug":"bruce-lee","length":91,"dateAdded":"2020-05-21","dateModified":"2023-04-14"}
+{"_id":"Aya0eLpghjxG","content":"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.","author":"Mortimer J. Adler","tags":["Famous Quotes"],"authorSlug":"mortimer-j-adler","length":113,"dateAdded":"2019-09-13","dateModified":"2023-04-14"}
