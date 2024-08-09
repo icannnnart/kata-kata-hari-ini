@@ -1,1 +1,1 @@
-{"_id":"AkrNJyl-mYhj","content":"The shoe that fits one person pinches another; there is no recipe for living that suits all cases.","author":"Carl Jung","tags":["Famous Quotes"],"authorSlug":"carl-jung","length":98,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"aNfYq5ccGUEL","content":"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.","author":"Henri Bergson","tags":["Famous Quotes","Change"],"authorSlug":"henri-bergson","length":96,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
