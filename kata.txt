@@ -1,1 +1,1 @@
-{"_id":"jiQwZPD3W","content":"To conquer fear is the beginning of wisdom.","author":"Bertrand Russell","tags":["Wisdom"],"authorSlug":"bertrand-russell","length":43,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
+{"_id":"Nz3BafiyALJ","content":"Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain.","author":"Kahlil Gibran","tags":["Wisdom"],"authorSlug":"kahlil-gibran","length":122,"dateAdded":"2019-09-13","dateModified":"2023-04-14"}
