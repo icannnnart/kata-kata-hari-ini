@@ -1,1 +1,1 @@
-{"_id":"5xt93w4ql_UM","content":"Never idealize others. They will never live up to your expectations.","author":"Leo Buscaglia","tags":["Famous Quotes"],"authorSlug":"leo-buscaglia","length":68,"dateAdded":"2020-12-08","dateModified":"2023-04-14"}
+{"_id":"YqOPx7bH29","author":"William Shakespeare","content":"Action is eloquence.","tags":["Literature"],"authorSlug":"william-shakespeare","length":20,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
