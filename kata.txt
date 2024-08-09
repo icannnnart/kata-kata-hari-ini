@@ -1,1 +1,1 @@
-{"_id":"aNfYq5ccGUEL","content":"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.","author":"Henri Bergson","tags":["Famous Quotes","Change"],"authorSlug":"henri-bergson","length":96,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
+{"_id":"XgU2ELnEUhe","author":"Winston Churchill","content":"In wartime, truth is so precious that she should always be attended by a bodyguard of lies.","tags":["War","History"],"authorSlug":"winston-churchill","length":91,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
