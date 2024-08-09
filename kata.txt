@@ -1,1 +1,1 @@
-{"_id":"jGNbZBKJFhRZ","content":"Be sure you put your feet in the right place, then stand firm.","author":"Abraham Lincoln","tags":["Famous Quotes","Wisdom"],"authorSlug":"abraham-lincoln","length":62,"dateAdded":"2021-01-10","dateModified":"2023-04-14"}
+{"_id":"5xt93w4ql_UM","content":"Never idealize others. They will never live up to your expectations.","author":"Leo Buscaglia","tags":["Famous Quotes"],"authorSlug":"leo-buscaglia","length":68,"dateAdded":"2020-12-08","dateModified":"2023-04-14"}
