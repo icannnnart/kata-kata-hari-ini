@@ -1,1 +1,1 @@
-{"_id":"lDffUvkJEnv0","content":"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.","author":"Wayne Dyer","tags":["Famous Quotes"],"authorSlug":"wayne-dyer","length":109,"dateAdded":"2019-03-15","dateModified":"2023-04-14"}
+{"_id":"sT905eIjh2n","author":"The Buddha","content":"Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.","tags":["Wisdom","Virtue"],"authorSlug":"the-buddha","length":99,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
