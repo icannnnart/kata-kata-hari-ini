@@ -1,1 +1,1 @@
-{"_id":"4E342E1vP","content":"Good, better, best. Never let it rest. ‘Til your good is better and your better is best.","author":"Jerome","tags":["Inspirational"],"authorSlug":"jerome","length":88,"dateAdded":"2021-01-30","dateModified":"2023-04-14"}
+{"_id":"mi54WW7d_b","content":"The road of excess leads to the palace of wisdom.","author":"William Blake","tags":["Wisdom"],"authorSlug":"william-blake","length":49,"dateAdded":"2019-11-26","dateModified":"2023-04-14"}
