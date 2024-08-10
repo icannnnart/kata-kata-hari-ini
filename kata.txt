@@ -1,1 +1,1 @@
-{"_id":"8W_EcJkZ-o","content":"The lure of the distant and the difficult is deceptive. The great opportunity is where you are.","author":"John Burroughs","tags":["Wisdom"],"authorSlug":"john-burroughs","length":95,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"3ZiVwxeuF5k","content":"Where there is great love, there are always miracles.","author":"Willa Cather","tags":["Famous Quotes"],"authorSlug":"willa-cather","length":53,"dateAdded":"2021-04-15","dateModified":"2023-04-14"}
