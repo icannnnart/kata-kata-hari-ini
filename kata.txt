@@ -1,1 +1,1 @@
-{"_id":"4CYX4OWZ4S-W","content":"A single rose can be my garden... a single friend, my world.","author":"Leo Buscaglia","tags":["Famous Quotes","Friendship"],"authorSlug":"leo-buscaglia","length":60,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
+{"_id":"oG014O92mM","content":"Life is a learning experience, only if you learn.","author":"Yogi Berra","tags":["Famous Quotes"],"authorSlug":"yogi-berra","length":49,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
