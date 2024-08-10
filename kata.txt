@@ -1,1 +1,1 @@
-{"_id":"BN2gsNt8uRS","content":"Strength does not come from physical capacity. It comes from an indomitable will.","author":"Mahatma Gandhi","tags":["Wisdom"],"authorSlug":"mahatma-gandhi","length":81,"dateAdded":"2021-03-28","dateModified":"2023-04-14"}
+{"_id":"4CYX4OWZ4S-W","content":"A single rose can be my garden... a single friend, my world.","author":"Leo Buscaglia","tags":["Famous Quotes","Friendship"],"authorSlug":"leo-buscaglia","length":60,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
