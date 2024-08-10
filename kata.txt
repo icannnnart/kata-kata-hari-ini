@@ -1,1 +1,1 @@
-{"_id":"oG014O92mM","content":"Life is a learning experience, only if you learn.","author":"Yogi Berra","tags":["Famous Quotes"],"authorSlug":"yogi-berra","length":49,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
+{"_id":"l8TCjE1d2T","content":"Wisdom has its root in goodness, not goodness its root in wisdom.","author":"Ralph Waldo Emerson","tags":["Wisdom"],"authorSlug":"ralph-waldo-emerson","length":65,"dateAdded":"2021-04-15","dateModified":"2023-04-14"}
