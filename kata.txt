@@ -1,1 +1,1 @@
-{"_id":"PC6SCHS2uMD","content":"The journey of a thousand miles begins with one step.","author":"Laozi","tags":["Famous Quotes","Wisdom"],"authorSlug":"laozi","length":53,"dateAdded":"2020-04-15","dateModified":"2023-04-14"}
+{"_id":"Gq3dzDrL32z","content":"To be wrong is nothing unless you continue to remember it.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":58,"dateAdded":"2019-08-16","dateModified":"2023-04-14"}
