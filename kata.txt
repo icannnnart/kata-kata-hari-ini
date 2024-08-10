@@ -1,1 +1,1 @@
-{"_id":"HNxrO-sMtq86","content":"Our passion is our strength.","author":"Billie Armstrong","tags":["Famous Quotes"],"authorSlug":"billie-armstrong","length":28,"dateAdded":"2019-09-08","dateModified":"2023-04-14"}
+{"_id":"07yZzr0bxo","content":"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.","author":"Chanakya","tags":["Friendship"],"authorSlug":"chanakya","length":120,"dateAdded":"2019-02-21","dateModified":"2023-04-14"}
