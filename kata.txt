@@ -1,1 +1,1 @@
-{"_id":"hmOTkU4-LiQM","content":"Be here now. Be someplace else later. Is that so complicated?","author":"David Bader","tags":["Famous Quotes"],"authorSlug":"david-bader","length":61,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
+{"_id":"GcWOk8pTEf","content":"Accept the challenges so that you can feel the exhilaration of victory.","author":"George S. Patton","tags":["Inspirational"],"authorSlug":"george-s-patton","length":71,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
