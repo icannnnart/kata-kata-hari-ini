@@ -1,1 +1,1 @@
-{"_id":"ZFbpmNAtdi-R","content":"People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost.","author":"Dalai Lama","tags":["Famous Quotes"],"authorSlug":"dalai-lama","length":133,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"rB5d9Z2peN","content":"The time to repair the roof is when the sun is shining.","author":"John F. Kennedy","tags":["Wisdom"],"authorSlug":"john-f-kennedy","length":55,"dateAdded":"2019-07-23","dateModified":"2023-04-14"}
