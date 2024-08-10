@@ -1,1 +1,1 @@
-{"_id":"rB5d9Z2peN","content":"The time to repair the roof is when the sun is shining.","author":"John F. Kennedy","tags":["Wisdom"],"authorSlug":"john-f-kennedy","length":55,"dateAdded":"2019-07-23","dateModified":"2023-04-14"}
+{"_id":"SPpjcmzodeBs","content":"By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm.","author":"Dalai Lama","tags":["Famous Quotes"],"authorSlug":"dalai-lama","length":140,"dateAdded":"2019-08-16","dateModified":"2023-04-14"}
