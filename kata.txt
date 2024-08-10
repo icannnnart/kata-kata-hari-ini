@@ -1,1 +1,1 @@
-{"_id":"Gq3dzDrL32z","content":"To be wrong is nothing unless you continue to remember it.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":58,"dateAdded":"2019-08-16","dateModified":"2023-04-14"}
+{"_id":"5UL7N8Q2QEH1","content":"There are two primary choices in life: to accept conditions as they exist or accept responsibility for changing them.","author":"Denis Waitley","tags":["Famous Quotes"],"authorSlug":"denis-waitley","length":117,"dateAdded":"2019-11-26","dateModified":"2023-04-14"}
