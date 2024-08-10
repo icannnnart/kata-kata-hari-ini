@@ -1,1 +1,1 @@
-{"_id":"l8TCjE1d2T","content":"Wisdom has its root in goodness, not goodness its root in wisdom.","author":"Ralph Waldo Emerson","tags":["Wisdom"],"authorSlug":"ralph-waldo-emerson","length":65,"dateAdded":"2021-04-15","dateModified":"2023-04-14"}
+{"_id":"HNxrO-sMtq86","content":"Our passion is our strength.","author":"Billie Armstrong","tags":["Famous Quotes"],"authorSlug":"billie-armstrong","length":28,"dateAdded":"2019-09-08","dateModified":"2023-04-14"}
