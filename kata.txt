@@ -1,1 +1,1 @@
-{"_id":"DNjQty5jeU","content":"Communications tools don't get socially interesting until they get technologically boring.","author":"Clay Shirky","tags":["Technology"],"authorSlug":"clay-shirky","length":90,"dateAdded":"2019-12-14","dateModified":"2023-04-14"}
+{"_id":"PC6SCHS2uMD","content":"The journey of a thousand miles begins with one step.","author":"Laozi","tags":["Famous Quotes","Wisdom"],"authorSlug":"laozi","length":53,"dateAdded":"2020-04-15","dateModified":"2023-04-14"}
