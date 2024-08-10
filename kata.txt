@@ -1,1 +1,1 @@
-{"_id":"3ZiVwxeuF5k","content":"Where there is great love, there are always miracles.","author":"Willa Cather","tags":["Famous Quotes"],"authorSlug":"willa-cather","length":53,"dateAdded":"2021-04-15","dateModified":"2023-04-14"}
+{"_id":"BN2gsNt8uRS","content":"Strength does not come from physical capacity. It comes from an indomitable will.","author":"Mahatma Gandhi","tags":["Wisdom"],"authorSlug":"mahatma-gandhi","length":81,"dateAdded":"2021-03-28","dateModified":"2023-04-14"}
