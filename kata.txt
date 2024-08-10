@@ -1,1 +1,1 @@
-{"_id":"pOAcy5-yW-3","content":"A prudent question is one half of wisdom.","author":"Francis Bacon","tags":["Famous Quotes"],"authorSlug":"francis-bacon","length":41,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"hmOTkU4-LiQM","content":"Be here now. Be someplace else later. Is that so complicated?","author":"David Bader","tags":["Famous Quotes"],"authorSlug":"david-bader","length":61,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
