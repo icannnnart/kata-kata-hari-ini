@@ -1,1 +1,1 @@
-{"_id":"EbwcJxDo-wVb","content":"I am a man of fixed and unbending principles, the first of which is to be flexible at all times.","author":"Everett Dirksen","tags":["Famous Quotes"],"authorSlug":"everett-dirksen","length":96,"dateAdded":"2020-04-14","dateModified":"2023-04-14"}
+{"_id":"ZftVmyHSNo53","content":"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.","author":"Maya Angelou","tags":["Famous Quotes","Social Justice"],"authorSlug":"maya-angelou","length":104,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
