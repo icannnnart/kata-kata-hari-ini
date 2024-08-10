@@ -1,1 +1,1 @@
-{"_id":"ZftVmyHSNo53","content":"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.","author":"Maya Angelou","tags":["Famous Quotes","Social Justice"],"authorSlug":"maya-angelou","length":104,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
+{"_id":"i067mT4BGk","content":"Friendship without self-interest is one of the rare and beautiful things of life.","author":"James F. Byrnes","tags":["Friendship"],"authorSlug":"james-f-byrnes","length":81,"dateAdded":"2020-12-19","dateModified":"2023-04-14"}
