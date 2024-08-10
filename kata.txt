@@ -1,1 +1,1 @@
-{"_id":"P6bkLTixc7","content":"Be slow to fall into friendship; but when thou art in, continue firm and constant.","author":"Isocrates","tags":["Friendship"],"authorSlug":"isocrates","length":82,"dateAdded":"2019-06-13","dateModified":"2023-04-14"}
+{"_id":"Bg0GobDyVYuP","content":"One who is too insistent on his own views, finds few to agree with him.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":71,"dateAdded":"2021-03-28","dateModified":"2023-04-14"}
