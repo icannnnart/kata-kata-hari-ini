@@ -1,1 +1,1 @@
-{"_id":"3VXNYoqMh8vl","content":"How many cares one loses when one decides not to be something but to be someone.","author":"Coco Chanel","tags":["Famous Quotes","Wisdom"],"authorSlug":"coco-chanel","length":80,"dateAdded":"2019-03-15","dateModified":"2023-04-14"}
+{"_id":"kvTitxhuKqUw","content":"There is only one success - to be able to spend your life in your own way.","author":"Christopher Morley","tags":["Success","Life"],"authorSlug":"christopher-morley","length":74,"dateAdded":"2020-01-27","dateModified":"2023-04-14"}
