@@ -1,1 +1,1 @@
-{"_id":"07yZzr0bxo","content":"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.","author":"Chanakya","tags":["Friendship"],"authorSlug":"chanakya","length":120,"dateAdded":"2019-02-21","dateModified":"2023-04-14"}
+{"_id":"IIjBYbtwyL6O","content":"Three things cannot be long hidden: the sun, the moon, and the truth.","author":"The Buddha","tags":["Wisdom"],"authorSlug":"the-buddha","length":69,"dateAdded":"2020-01-27","dateModified":"2023-04-14"}
