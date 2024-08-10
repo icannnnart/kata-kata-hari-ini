@@ -1,1 +1,1 @@
-{"_id":"Yg7xaxX5bj","author":"Abraham Lincoln","content":"Government of the people, by the people, for the people, shall not perish from the Earth.","tags":["History","Politics","Famous Quotes"],"authorSlug":"abraham-lincoln","length":89,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
+{"_id":"38EIHUXkkhc","content":"To bring anything into your life, imagine that it's already there.","author":"Richard Bach","tags":["Famous Quotes"],"authorSlug":"richard-bach","length":66,"dateAdded":"2021-04-23","dateModified":"2023-04-14"}
