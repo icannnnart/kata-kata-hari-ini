@@ -1,1 +1,1 @@
-{"_id":"i067mT4BGk","content":"Friendship without self-interest is one of the rare and beautiful things of life.","author":"James F. Byrnes","tags":["Friendship"],"authorSlug":"james-f-byrnes","length":81,"dateAdded":"2020-12-19","dateModified":"2023-04-14"}
+{"_id":"8W_EcJkZ-o","content":"The lure of the distant and the difficult is deceptive. The great opportunity is where you are.","author":"John Burroughs","tags":["Wisdom"],"authorSlug":"john-burroughs","length":95,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
