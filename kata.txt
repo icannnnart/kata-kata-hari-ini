@@ -1,1 +1,1 @@
-{"_id":"rIyjtuXKWUzv","content":"It is never too late to be what you might have been.","author":"George Eliot","tags":["Famous Quotes","Success","Wisdom"],"authorSlug":"george-eliot","length":52,"dateAdded":"2019-01-08","dateModified":"2023-04-14"}
+{"_id":"uUMvpp64j2oS","content":"To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":138,"dateAdded":"2019-11-26","dateModified":"2023-04-14"}
