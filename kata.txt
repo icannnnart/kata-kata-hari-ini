@@ -1,1 +1,1 @@
-{"_id":"Bg0GobDyVYuP","content":"One who is too insistent on his own views, finds few to agree with him.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":71,"dateAdded":"2021-03-28","dateModified":"2023-04-14"}
+{"_id":"RnCP5T-HzwbJ","content":"If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.","author":"Anne Bradstreet","tags":["Famous Quotes"],"authorSlug":"anne-bradstreet","length":137,"dateAdded":"2020-03-11","dateModified":"2023-04-14"}
