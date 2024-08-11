@@ -1,1 +1,1 @@
-{"_id":"qSE0xr7MBUiX","content":"Obstacles are those things you see when you take your eyes off the goal.","author":"Hannah More","tags":["Famous Quotes"],"authorSlug":"hannah-more","length":72,"dateAdded":"2020-08-27","dateModified":"2023-04-14"}
+{"_id":"38EIHUXkkhc","content":"To bring anything into your life, imagine that it's already there.","author":"Richard Bach","tags":["Famous Quotes"],"authorSlug":"richard-bach","length":66,"dateAdded":"2021-04-23","dateModified":"2023-04-14"}
