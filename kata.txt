@@ -1,1 +1,1 @@
-{"_id":"xdwmubQ3Sh49","content":"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.","author":"Jane Addams","tags":["Famous Quotes"],"authorSlug":"jane-addams","length":92,"dateAdded":"2020-11-10","dateModified":"2023-04-14"}
+{"_id":"hMtpAMSKJ3RJ","content":"The price of greatness is responsibility.","author":"Winston Churchill","tags":["Famous Quotes"],"authorSlug":"winston-churchill","length":41,"dateAdded":"2019-07-03","dateModified":"2023-04-14"}
