@@ -1,1 +1,1 @@
-{"_id":"Rwi_mTUgp02y","content":"All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.","author":"William Shakespeare","tags":["Famous Quotes"],"authorSlug":"william-shakespeare","length":143,"dateAdded":"2020-12-19","dateModified":"2023-04-14"}
+{"_id":"7I1NygyqFe","content":"Wisdom is found only in truth.","author":"Johann Wolfgang von Goethe","tags":["Wisdom"],"authorSlug":"johann-wolfgang-von-goethe","length":30,"dateAdded":"2020-09-09","dateModified":"2023-04-14"}
