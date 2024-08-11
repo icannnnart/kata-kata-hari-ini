@@ -1,1 +1,1 @@
-{"_id":"V8reXkHpukCS","content":"Success is getting what you want. Happiness is wanting what you get.","author":"Dale Carnegie","tags":["Happiness"],"authorSlug":"dale-carnegie","length":68,"dateAdded":"2021-01-10","dateModified":"2023-04-14"}
+{"_id":"6d2lKK8P1nzS","content":"To be what we are, and to become what we are capable of becoming, is the only end of life.","author":"Robert Louis Stevenson","tags":["Famous Quotes"],"authorSlug":"robert-louis-stevenson","length":90,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
