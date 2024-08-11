@@ -1,1 +1,1 @@
-{"_id":"8W_EcJkZ-o","content":"The lure of the distant and the difficult is deceptive. The great opportunity is where you are.","author":"John Burroughs","tags":["Wisdom"],"authorSlug":"john-burroughs","length":95,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"rIyjtuXKWUzv","content":"It is never too late to be what you might have been.","author":"George Eliot","tags":["Famous Quotes","Success","Wisdom"],"authorSlug":"george-eliot","length":52,"dateAdded":"2019-01-08","dateModified":"2023-04-14"}
