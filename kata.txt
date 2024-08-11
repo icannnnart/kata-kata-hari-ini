@@ -1,1 +1,1 @@
-{"_id":"mJsawC7KrtMh","content":"If you focus on results, you will never change. If you focus on change, you will get results.","author":"Jack Dixon","tags":["Change","Success"],"authorSlug":"jack-dixon","length":93,"dateAdded":"2020-02-07","dateModified":"2023-04-14"}
+{"_id":"LC_TwYzpCr","content":"A friend to all is a friend to none.","author":"Aristotle","tags":["Friendship"],"authorSlug":"aristotle","length":36,"dateAdded":"2020-09-29","dateModified":"2023-04-14"}
