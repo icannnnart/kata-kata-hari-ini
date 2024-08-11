@@ -1,1 +1,1 @@
-{"_id":"e0mfNS8FEa","author":"Winston Churchill","content":"Russia is a riddle wrapped in a mystery inside an enigma.","tags":["History","Politics"],"authorSlug":"winston-churchill","length":57,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
+{"_id":"wZrnXk6yOHox","content":"Learning never exhausts the mind.","author":"Leonardo da Vinci","tags":["Famous Quotes"],"authorSlug":"leonardo-da-vinci","length":33,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
