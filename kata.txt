@@ -1,1 +1,1 @@
-{"_id":"38EIHUXkkhc","content":"To bring anything into your life, imagine that it's already there.","author":"Richard Bach","tags":["Famous Quotes"],"authorSlug":"richard-bach","length":66,"dateAdded":"2021-04-23","dateModified":"2023-04-14"}
+{"_id":"xdwmubQ3Sh49","content":"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt.","author":"Jane Addams","tags":["Famous Quotes"],"authorSlug":"jane-addams","length":92,"dateAdded":"2020-11-10","dateModified":"2023-04-14"}
