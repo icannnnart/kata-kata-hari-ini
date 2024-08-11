@@ -1,1 +1,1 @@
-{"_id":"mV8MJw0rVTDP","content":"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.","author":"G. K. Chesterton","tags":["Famous Quotes"],"authorSlug":"g-k-chesterton","length":112,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
+{"_id":"SDhP8UAmtD09","content":"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.","author":"Barack Obama","tags":["Famous Quotes"],"authorSlug":"barack-obama","length":106,"dateAdded":"2020-09-29","dateModified":"2023-04-14"}
