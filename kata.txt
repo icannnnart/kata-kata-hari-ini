@@ -1,1 +1,1 @@
-{"_id":"6d2lKK8P1nzS","content":"To be what we are, and to become what we are capable of becoming, is the only end of life.","author":"Robert Louis Stevenson","tags":["Famous Quotes"],"authorSlug":"robert-louis-stevenson","length":90,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"HmFAPaZJYAn","content":"I believe that every person is born with talent.","author":"Maya Angelou","tags":["Famous Quotes"],"authorSlug":"maya-angelou","length":48,"dateAdded":"2019-11-16","dateModified":"2023-04-14"}
