@@ -1,1 +1,1 @@
-{"_id":"oAtERLD0yyQR","content":"He who knows, does not speak. He who speaks, does not know.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":59,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
+{"_id":"ZxKQ6LZn9nZl","content":"The world has the habit of making room for the man whose actions show that he knows where he is going.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":102,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
