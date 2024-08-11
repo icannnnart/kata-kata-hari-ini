@@ -1,1 +1,1 @@
-{"_id":"HmFAPaZJYAn","content":"I believe that every person is born with talent.","author":"Maya Angelou","tags":["Famous Quotes"],"authorSlug":"maya-angelou","length":48,"dateAdded":"2019-11-16","dateModified":"2023-04-14"}
+{"_id":"iCcQwfTUU3","author":"Albert Einstein","content":"Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population.","tags":["Freedom","Tolerance"],"authorSlug":"albert-einstein","length":166,"dateAdded":"2023-04-06","dateModified":"2023-04-14"}
