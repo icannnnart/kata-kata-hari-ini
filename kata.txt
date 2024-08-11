@@ -1,1 +1,1 @@
-{"_id":"hMtpAMSKJ3RJ","content":"The price of greatness is responsibility.","author":"Winston Churchill","tags":["Famous Quotes"],"authorSlug":"winston-churchill","length":41,"dateAdded":"2019-07-03","dateModified":"2023-04-14"}
+{"_id":"V8reXkHpukCS","content":"Success is getting what you want. Happiness is wanting what you get.","author":"Dale Carnegie","tags":["Happiness"],"authorSlug":"dale-carnegie","length":68,"dateAdded":"2021-01-10","dateModified":"2023-04-14"}
