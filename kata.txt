@@ -1,1 +1,1 @@
-{"_id":"UXTu1fXwnb","content":"Technological progress has merely provided us with more efficient means for going backwards.","author":"Aldous Huxley","tags":["Technology"],"authorSlug":"aldous-huxley","length":92,"dateAdded":"2019-03-17","dateModified":"2023-04-14"}
+{"_id":"un7fRc7cVivc","content":"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.","author":"John Adams","tags":["Famous Quotes"],"authorSlug":"john-adams","length":105,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
