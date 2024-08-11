@@ -1,1 +1,1 @@
-{"_id":"7I1NygyqFe","content":"Wisdom is found only in truth.","author":"Johann Wolfgang von Goethe","tags":["Wisdom"],"authorSlug":"johann-wolfgang-von-goethe","length":30,"dateAdded":"2020-09-09","dateModified":"2023-04-14"}
+{"_id":"8W_EcJkZ-o","content":"The lure of the distant and the difficult is deceptive. The great opportunity is where you are.","author":"John Burroughs","tags":["Wisdom"],"authorSlug":"john-burroughs","length":95,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
