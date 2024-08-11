@@ -1,1 +1,1 @@
-{"_id":"un7fRc7cVivc","content":"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.","author":"John Adams","tags":["Famous Quotes"],"authorSlug":"john-adams","length":105,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
+{"_id":"e0mfNS8FEa","author":"Winston Churchill","content":"Russia is a riddle wrapped in a mystery inside an enigma.","tags":["History","Politics"],"authorSlug":"winston-churchill","length":57,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
