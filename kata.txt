@@ -1,1 +1,1 @@
-{"_id":"qaVA31y0GA1Q","content":"Opportunity often comes disguised in the form of misfortune, or temporary defeat.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":81,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
+{"_id":"_tNDPuX5N3v5","content":"Waste no more time arguing about what a good man should be. Be one.","author":"Marcus Aurelius","tags":["Famous Quotes"],"authorSlug":"marcus-aurelius","length":67,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
