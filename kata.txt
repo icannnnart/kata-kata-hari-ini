@@ -1,1 +1,1 @@
-{"_id":"yVlVhbeycw3","author":"Aristotle Onassis","content":"The secret of business is to know something that nobody else knows.","tags":["Business"],"authorSlug":"aristotle-onassis","length":67,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"ik3gMokYAS","content":"One of the most beautiful qualities of true friendship is to understand and to be understood.","author":"Seneca the Younger","tags":["Friendship"],"authorSlug":"seneca-the-younger","length":93,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
