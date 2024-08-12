@@ -1,1 +1,1 @@
-{"_id":"3v53-XiBvtQK","content":"Happiness is when what you think, what you say, and what you do are in harmony.","author":"Mahatma Gandhi","tags":["Wisdom"],"authorSlug":"mahatma-gandhi","length":79,"dateAdded":"2021-04-08","dateModified":"2023-04-14"}
+{"_id":"sHu_LU1tMdkz","content":"A thing long expected takes the form of the unexpected when at last it comes.","author":"Mark Twain","tags":["Famous Quotes"],"authorSlug":"mark-twain","length":77,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
