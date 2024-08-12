@@ -1,1 +1,1 @@
-{"_id":"Ip75UWJEwuV4","content":"Don't be afraid to go out on a limb. That's where the fruit is.","author":"H. Jackson Brown Jr.","tags":["Famous Quotes"],"authorSlug":"h-jackson-brown-jr","length":63,"dateAdded":"2021-04-08","dateModified":"2023-04-14"}
+{"_id":"adYjdj0WmI","content":"My friends are my estate.","author":"Emily Dickinson","tags":["Friendship"],"authorSlug":"emily-dickinson","length":25,"dateAdded":"2019-11-26","dateModified":"2023-04-14"}
