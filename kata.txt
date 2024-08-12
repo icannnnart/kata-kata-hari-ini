@@ -1,1 +1,1 @@
-{"_id":"TLfamqFncI8p","content":"There are no failures. Just experiences and your reactions to them.","author":"Tom Krause","tags":["Famous Quotes"],"authorSlug":"tom-krause","length":67,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
+{"_id":"tK5T0Jab4_vP","content":"If you do not change direction, you may end up where you are heading.","author":"Laozi","tags":["Wisdom","Success"],"authorSlug":"laozi","length":69,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
