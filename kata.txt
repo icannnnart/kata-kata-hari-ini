@@ -1,1 +1,1 @@
-{"_id":"CXJ3rBlnfFa2","content":"Myths which are believed in tend to become true.","author":"George Orwell","tags":["Famous Quotes"],"authorSlug":"george-orwell","length":48,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"ldPGIu-fmv2e","content":"You were not born a winner, and you were not born a loser. You are what you make yourself be.","author":"Lou Holtz","tags":["Success"],"authorSlug":"lou-holtz","length":93,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
