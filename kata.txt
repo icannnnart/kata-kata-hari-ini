@@ -1,1 +1,1 @@
-{"_id":"_tNDPuX5N3v5","content":"Waste no more time arguing about what a good man should be. Be one.","author":"Marcus Aurelius","tags":["Famous Quotes"],"authorSlug":"marcus-aurelius","length":67,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
+{"_id":"fEr2kx4_Nvt","author":"The Buddha","content":"Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.","tags":["Wisdom","Love"],"authorSlug":"the-buddha","length":112,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
