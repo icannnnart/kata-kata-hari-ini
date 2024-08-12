@@ -1,1 +1,1 @@
-{"_id":"bjZhiqcqpHD6","content":"Happiness does not come from having much, but from being attached to little.","author":"Cheng Yen","tags":["Famous Quotes"],"authorSlug":"cheng-yen","length":76,"dateAdded":"2020-12-17","dateModified":"2023-04-14"}
+{"_id":"juG0aJTnYxmf","content":"The Superior Man is aware of Righteousness, the inferior man is aware of advantage.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":83,"dateAdded":"2019-12-23","dateModified":"2023-04-14"}
