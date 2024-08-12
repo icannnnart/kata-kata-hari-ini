@@ -1,1 +1,1 @@
-{"_id":"juG0aJTnYxmf","content":"The Superior Man is aware of Righteousness, the inferior man is aware of advantage.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":83,"dateAdded":"2019-12-23","dateModified":"2023-04-14"}
+{"_id":"yVlVhbeycw3","author":"Aristotle Onassis","content":"The secret of business is to know something that nobody else knows.","tags":["Business"],"authorSlug":"aristotle-onassis","length":67,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
