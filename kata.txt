@@ -1,1 +1,1 @@
-{"_id":"sHu_LU1tMdkz","content":"A thing long expected takes the form of the unexpected when at last it comes.","author":"Mark Twain","tags":["Famous Quotes"],"authorSlug":"mark-twain","length":77,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
+{"_id":"7C2TU6MIz9o_","content":"I'm not interested in age. People who tell me their age are silly. You're as old as you feel.","author":"Elizabeth Arden","tags":["Famous Quotes"],"authorSlug":"elizabeth-arden","length":93,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
