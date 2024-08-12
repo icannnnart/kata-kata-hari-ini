@@ -1,1 +1,1 @@
-{"_id":"tK5T0Jab4_vP","content":"If you do not change direction, you may end up where you are heading.","author":"Laozi","tags":["Wisdom","Success"],"authorSlug":"laozi","length":69,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
+{"_id":"HrDfFDfT_HDs","content":"Beauty is not in the face; beauty is a light in the heart.","author":"Kahlil Gibran","tags":["Life"],"authorSlug":"kahlil-gibran","length":58,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
