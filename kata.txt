@@ -1,1 +1,1 @@
-{"_id":"adYjdj0WmI","content":"My friends are my estate.","author":"Emily Dickinson","tags":["Friendship"],"authorSlug":"emily-dickinson","length":25,"dateAdded":"2019-11-26","dateModified":"2023-04-14"}
+{"_id":"GS84RFhqTdbr","content":"Remember that failure is an event, not a person.","author":"Zig Ziglar","tags":["Famous Quotes"],"authorSlug":"zig-ziglar","length":48,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
