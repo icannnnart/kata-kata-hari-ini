@@ -1,1 +1,1 @@
-{"_id":"HrDfFDfT_HDs","content":"Beauty is not in the face; beauty is a light in the heart.","author":"Kahlil Gibran","tags":["Life"],"authorSlug":"kahlil-gibran","length":58,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
+{"_id":"0umC2Yk5UX","author":"The Buddha","content":"One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.","tags":["Wisdom","Happiness"],"authorSlug":"the-buddha","length":123,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
