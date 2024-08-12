@@ -1,1 +1,1 @@
-{"_id":"fEr2kx4_Nvt","author":"The Buddha","content":"Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.","tags":["Wisdom","Love"],"authorSlug":"the-buddha","length":112,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
+{"_id":"P4WtPxjdH735","content":"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.","author":"Epictetus","tags":["Famous Quotes"],"authorSlug":"epictetus","length":120,"dateAdded":"2019-10-18","dateModified":"2023-04-14"}
