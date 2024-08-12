@@ -1,1 +1,1 @@
-{"_id":"ldPGIu-fmv2e","content":"You were not born a winner, and you were not born a loser. You are what you make yourself be.","author":"Lou Holtz","tags":["Success"],"authorSlug":"lou-holtz","length":93,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
+{"_id":"7Ndd5D0hjib4","content":"Let yourself be silently drawn by the stronger pull of what you really love.","author":"Rumi","tags":["Famous Quotes"],"authorSlug":"rumi","length":76,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
