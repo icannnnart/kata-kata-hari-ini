@@ -1,1 +1,1 @@
-{"_id":"_KiEvJQt0dRj","content":"Your big opportunity may be right where you are now.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":52,"dateAdded":"2020-12-19","dateModified":"2023-04-14"}
+{"_id":"Ip75UWJEwuV4","content":"Don't be afraid to go out on a limb. That's where the fruit is.","author":"H. Jackson Brown Jr.","tags":["Famous Quotes"],"authorSlug":"h-jackson-brown-jr","length":63,"dateAdded":"2021-04-08","dateModified":"2023-04-14"}
