@@ -1,1 +1,1 @@
-{"_id":"ik3gMokYAS","content":"One of the most beautiful qualities of true friendship is to understand and to be understood.","author":"Seneca the Younger","tags":["Friendship"],"authorSlug":"seneca-the-younger","length":93,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
+{"_id":"W9NwK4fYcp","content":"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.","author":"Plato","tags":["Wisdom"],"authorSlug":"plato","length":86,"dateAdded":"2019-08-03","dateModified":"2023-04-14"}
