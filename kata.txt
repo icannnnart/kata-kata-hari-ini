@@ -1,1 +1,1 @@
-{"_id":"nbzh5SVWhy","content":"Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.","author":"Salman Rushdie","tags":["Friendship"],"authorSlug":"salman-rushdie","length":153,"dateAdded":"2020-12-06","dateModified":"2023-04-14"}
+{"_id":"W6T9TWwOwW0","content":"When in doubt, don't.","author":"Benjamin Franklin","tags":["Wisdom"],"authorSlug":"benjamin-franklin","length":21,"dateAdded":"2019-08-08","dateModified":"2023-04-14"}
