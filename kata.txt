@@ -1,1 +1,1 @@
-{"_id":"YTqaIDVD0fX3","content":"The way we communicate with others and with ourselves ultimately determines the quality of our lives.","author":"Tony Robbins","tags":["Famous Quotes"],"authorSlug":"tony-robbins","length":101,"dateAdded":"2019-03-24","dateModified":"2023-04-14"}
+{"_id":"TLfamqFncI8p","content":"There are no failures. Just experiences and your reactions to them.","author":"Tom Krause","tags":["Famous Quotes"],"authorSlug":"tom-krause","length":67,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
