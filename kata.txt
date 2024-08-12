@@ -1,1 +1,1 @@
-{"_id":"8UvlA-VR9T","content":"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.","author":"Morihei Ueshiba","tags":["Wisdom"],"authorSlug":"morihei-ueshiba","length":101,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
+{"_id":"_KiEvJQt0dRj","content":"Your big opportunity may be right where you are now.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":52,"dateAdded":"2020-12-19","dateModified":"2023-04-14"}
