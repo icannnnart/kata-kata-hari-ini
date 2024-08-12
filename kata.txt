@@ -1,1 +1,1 @@
-{"_id":"W6T9TWwOwW0","content":"When in doubt, don't.","author":"Benjamin Franklin","tags":["Wisdom"],"authorSlug":"benjamin-franklin","length":21,"dateAdded":"2019-08-08","dateModified":"2023-04-14"}
+{"_id":"M_3sjCS_e7k2","content":"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more","author":"Tony Robbins","tags":["Famous Quotes"],"authorSlug":"tony-robbins","length":119,"dateAdded":"2019-03-24","dateModified":"2023-04-14"}
