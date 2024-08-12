@@ -1,1 +1,1 @@
-{"_id":"M_3sjCS_e7k2","content":"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more","author":"Tony Robbins","tags":["Famous Quotes"],"authorSlug":"tony-robbins","length":119,"dateAdded":"2019-03-24","dateModified":"2023-04-14"}
+{"_id":"8UvlA-VR9T","content":"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.","author":"Morihei Ueshiba","tags":["Wisdom"],"authorSlug":"morihei-ueshiba","length":101,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
