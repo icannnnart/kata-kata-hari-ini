@@ -1,1 +1,1 @@
-{"_id":"jYyA1JDRT8Ao","content":"Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.","author":"Henry James","tags":["Famous Quotes"],"authorSlug":"henry-james","length":105,"dateAdded":"2019-08-08","dateModified":"2023-04-14"}
+{"_id":"YTqaIDVD0fX3","content":"The way we communicate with others and with ourselves ultimately determines the quality of our lives.","author":"Tony Robbins","tags":["Famous Quotes"],"authorSlug":"tony-robbins","length":101,"dateAdded":"2019-03-24","dateModified":"2023-04-14"}
