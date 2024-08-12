@@ -1,1 +1,1 @@
-{"_id":"7Ndd5D0hjib4","content":"Let yourself be silently drawn by the stronger pull of what you really love.","author":"Rumi","tags":["Famous Quotes"],"authorSlug":"rumi","length":76,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
+{"_id":"nbzh5SVWhy","content":"Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.","author":"Salman Rushdie","tags":["Friendship"],"authorSlug":"salman-rushdie","length":153,"dateAdded":"2020-12-06","dateModified":"2023-04-14"}
