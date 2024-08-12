@@ -1,1 +1,1 @@
-{"_id":"W9NwK4fYcp","content":"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.","author":"Plato","tags":["Wisdom"],"authorSlug":"plato","length":86,"dateAdded":"2019-08-03","dateModified":"2023-04-14"}
+{"_id":"jYyA1JDRT8Ao","content":"Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.","author":"Henry James","tags":["Famous Quotes"],"authorSlug":"henry-james","length":105,"dateAdded":"2019-08-08","dateModified":"2023-04-14"}
