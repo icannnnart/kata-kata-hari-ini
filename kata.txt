@@ -1,1 +1,0 @@
-{"_id":"wIfNy-oDtr","content":"Friendship needs no words - it is solitude delivered from the anguish of loneliness.","author":"Dag Hammarskjöld","tags":["Friendship"],"authorSlug":"dag-hammarskjold","length":84,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
