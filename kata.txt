@@ -1,1 +1,1 @@
-{"_id":"JjBqM4t-sxsr","content":"Wise men talk because they have something to say; fools, because they have to say something.","author":"Plato","tags":["Famous Quotes"],"authorSlug":"plato","length":92,"dateAdded":"2019-11-16","dateModified":"2023-04-14"}
+{"_id":"7hfEG8Iv86","content":"Friendship is the marriage of the soul, and this marriage is liable to divorce.","author":"Voltaire","tags":["Friendship"],"authorSlug":"voltaire","length":79,"dateAdded":"2020-02-27","dateModified":"2023-04-14"}
