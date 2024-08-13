@@ -1,1 +1,1 @@
-{"_id":"tjKgOoz27y","content":"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.","author":"Henry Ward Beecher","tags":["Wisdom"],"authorSlug":"henry-ward-beecher","length":129,"dateAdded":"2019-08-16","dateModified":"2023-04-14"}
+{"_id":"6dj60GUobqhK","content":"Think for yourselves and let others enjoy the privilege to do so too.","author":"Voltaire","tags":["Famous Quotes"],"authorSlug":"voltaire","length":69,"dateAdded":"2020-04-02","dateModified":"2023-04-14"}
