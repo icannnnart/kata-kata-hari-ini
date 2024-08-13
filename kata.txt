@@ -1,1 +1,1 @@
-{"_id":"U8B6iFEz1V7","content":"An ant on the move does more than a dozing ox","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":45,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
+{"_id":"oAtERLD0yyQR","content":"He who knows, does not speak. He who speaks, does not know.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":59,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
