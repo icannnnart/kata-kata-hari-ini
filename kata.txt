@@ -1,1 +1,1 @@
-{"_id":"0umC2Yk5UX","author":"The Buddha","content":"One should train in deeds of merit—generosity, a balanced life, developing a loving mind—that yield long-lasting happiness.","tags":["Wisdom","Happiness"],"authorSlug":"the-buddha","length":123,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
+{"_id":"ZKfOV0UwuugV","content":"And as we let our own light shine, we unconsciously give other people permission to do the same.","author":"Nelson Mandela","tags":["Famous Quotes"],"authorSlug":"nelson-mandela","length":96,"dateAdded":"2020-12-08","dateModified":"2023-04-14"}
