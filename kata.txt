@@ -1,1 +1,1 @@
-{"_id":"MdvJqIDaYLK","content":"You can do it if you believe you can!","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":37,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
+{"_id":"U8B6iFEz1V7","content":"An ant on the move does more than a dozing ox","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":45,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
