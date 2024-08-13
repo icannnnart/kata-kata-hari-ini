@@ -1,1 +1,1 @@
-{"_id":"6dj60GUobqhK","content":"Think for yourselves and let others enjoy the privilege to do so too.","author":"Voltaire","tags":["Famous Quotes"],"authorSlug":"voltaire","length":69,"dateAdded":"2020-04-02","dateModified":"2023-04-14"}
+{"_id":"MdvJqIDaYLK","content":"You can do it if you believe you can!","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":37,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
