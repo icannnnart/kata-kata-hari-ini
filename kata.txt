@@ -1,1 +1,1 @@
-{"_id":"ZEnZhKCFpId","content":"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.","author":"Susan Orlean","tags":["Wisdom"],"authorSlug":"susan-orlean","length":121,"dateAdded":"2020-11-10","dateModified":"2023-04-14"}
+{"_id":"uQwITry_sQQv","content":"I am not bothered by the fact that I am unknown. I am bothered when I do not know others.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":89,"dateAdded":"2020-02-22","dateModified":"2023-04-14"}
