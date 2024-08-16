@@ -1,1 +1,1 @@
-{"_id":"OXmgXdTkdjdF","content":"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.","author":"Richard Bach","tags":["Famous Quotes"],"authorSlug":"richard-bach","length":121,"dateAdded":"2020-09-09","dateModified":"2023-04-14"}
+{"_id":"EiMTkdWMquh","content":"To accomplish great things, we must dream as well as act.","author":"Anatole France","tags":["Famous Quotes"],"authorSlug":"anatole-france","length":57,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
