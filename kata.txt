@@ -1,1 +1,1 @@
-{"_id":"EiMTkdWMquh","content":"To accomplish great things, we must dream as well as act.","author":"Anatole France","tags":["Famous Quotes"],"authorSlug":"anatole-france","length":57,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
+{"_id":"bwLNaDverO","author":"Winston Churchill","content":"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.","tags":["Humorous","Famous Quotes"],"authorSlug":"winston-churchill","length":85,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
