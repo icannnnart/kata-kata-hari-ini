@@ -1,1 +1,1 @@
-{"_id":"dyS4RfFiFK","content":"A man's growth is seen in the successive choirs of his friends","author":"Ralph Waldo Emerson","tags":["Friendship"],"authorSlug":"ralph-waldo-emerson","length":62,"dateAdded":"2019-02-21","dateModified":"2023-04-14"}
+{"_id":"2cUIpG3YEr8","content":"Character develops itself in the stream of life.","author":"Johann Wolfgang von Goethe","tags":["Famous Quotes","Life"],"authorSlug":"johann-wolfgang-von-goethe","length":48,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
