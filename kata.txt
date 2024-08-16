@@ -1,1 +1,1 @@
-{"_id":"XNLGqepInX","author":"Amy Poehler","content":"There's power in looking silly and not caring that you do.","tags":["Famous Quotes","Inspirational"],"authorSlug":"amy-poehler","length":58,"dateAdded":"2021-06-18","dateModified":"2023-04-14"}
+{"_id":"NaR2ruD4l68","author":"Robert Kiyosaki","content":"When times are bad is when the real entrepreneurs emerge.","tags":["Business"],"authorSlug":"robert-kiyosaki","length":57,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
