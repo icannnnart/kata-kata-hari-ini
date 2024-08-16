@@ -1,1 +1,1 @@
-{"_id":"bwLNaDverO","author":"Winston Churchill","content":"I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.","tags":["Humorous","Famous Quotes"],"authorSlug":"winston-churchill","length":85,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
+{"_id":"K-JXXOyR_n","content":"A true friend is one who overlooks your failures and tolerates your success!","author":"Doug Larson","tags":["Friendship"],"authorSlug":"doug-larson","length":76,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
