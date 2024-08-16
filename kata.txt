@@ -1,1 +1,1 @@
-{"_id":"BZv62bew3w","content":"Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.","author":"George Santayana","tags":["Friendship"],"authorSlug":"george-santayana","length":114,"dateAdded":"2019-09-08","dateModified":"2023-04-14"}
+{"_id":"dyS4RfFiFK","content":"A man's growth is seen in the successive choirs of his friends","author":"Ralph Waldo Emerson","tags":["Friendship"],"authorSlug":"ralph-waldo-emerson","length":62,"dateAdded":"2019-02-21","dateModified":"2023-04-14"}
