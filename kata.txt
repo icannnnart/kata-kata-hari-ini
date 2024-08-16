@@ -1,1 +1,1 @@
-{"_id":"7ca_FwfVHg","content":"There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":186,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
+{"_id":"MuDFlwg3R5","content":"All wisdom does not reside in Delhi.","author":"P. Chidambaram","tags":["Wisdom"],"authorSlug":"p-chidambaram","length":36,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
