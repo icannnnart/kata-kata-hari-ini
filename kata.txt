@@ -1,1 +1,1 @@
-{"_id":"2cUIpG3YEr8","content":"Character develops itself in the stream of life.","author":"Johann Wolfgang von Goethe","tags":["Famous Quotes","Life"],"authorSlug":"johann-wolfgang-von-goethe","length":48,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
+{"_id":"4Fw5Fu7aOG","content":"Dost thou love life? Then do not squander time, for that is the stuff life is made of.","author":"Benjamin Franklin","tags":["Wisdom"],"authorSlug":"benjamin-franklin","length":86,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
