@@ -1,0 +1,1 @@
+{"_id":"oG014O92mM","content":"Life is a learning experience, only if you learn.","author":"Yogi Berra","tags":["Famous Quotes"],"authorSlug":"yogi-berra","length":49,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
