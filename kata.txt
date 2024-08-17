@@ -1,1 +1,1 @@
-{"_id":"ge3CMrnyX7ee","content":"Bad times have a scientific value. These are occasions a good learner would not miss.","author":"Ralph Waldo Emerson","tags":["Famous Quotes"],"authorSlug":"ralph-waldo-emerson","length":85,"dateAdded":"2020-12-10","dateModified":"2023-04-14"}
+{"_id":"_PbeYxORKX","content":"However rare true love may be, it is less so than true friendship.","author":"François de La Rochefoucauld","tags":["Friendship"],"authorSlug":"francois-de-la-rochefoucauld","length":66,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
