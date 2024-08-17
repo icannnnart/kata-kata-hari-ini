@@ -1,1 +1,1 @@
-{"_id":"tVqHnTXq3bDN","content":"It is one of the blessings of old friends that you can afford to be stupid with them.","author":"Ralph Waldo Emerson","tags":["Famous Quotes","Friendship"],"authorSlug":"ralph-waldo-emerson","length":85,"dateAdded":"2020-03-27","dateModified":"2023-04-14"}
+{"_id":"6Frokv7EPoui","content":"Ignorant men don't know what good they hold in their hands until they've flung it away.","author":"Sophocles","tags":["Famous Quotes"],"authorSlug":"sophocles","length":87,"dateAdded":"2019-10-18","dateModified":"2023-04-14"}
