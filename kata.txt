@@ -1,1 +1,1 @@
-{"_id":"AOZZPqNwJWMZ","content":"He who wishes to secure the good of others, has already secured his own.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":72,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
+{"_id":"MBt-5fvDPQwf","content":"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise.","author":"Anne Brontë","tags":["Famous Quotes"],"authorSlug":"anne-bronte","length":100,"dateAdded":"2019-08-08","dateModified":"2023-04-14"}
