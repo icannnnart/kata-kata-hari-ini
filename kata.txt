@@ -1,1 +1,1 @@
-{"_id":"nFRdjQdGL4v5","content":"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.","author":"Washington Irving","tags":["Famous Quotes"],"authorSlug":"washington-irving","length":91,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
+{"_id":"HncS4FKWNy","author":"Abraham Lincoln","content":"I will prepare and some day my chance will come.","tags":["Success"],"authorSlug":"abraham-lincoln","length":48,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
