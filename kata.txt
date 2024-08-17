@@ -1,1 +1,1 @@
-{"_id":"_PbeYxORKX","content":"However rare true love may be, it is less so than true friendship.","author":"François de La Rochefoucauld","tags":["Friendship"],"authorSlug":"francois-de-la-rochefoucauld","length":66,"dateAdded":"2019-02-17","dateModified":"2023-04-14"}
+{"_id":"wf-HO_P_3C9","content":"Never mistake activity for achievement.","author":"John Wooden","tags":["Famous Quotes"],"authorSlug":"john-wooden","length":39,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
