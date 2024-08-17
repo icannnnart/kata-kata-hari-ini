@@ -1,1 +1,1 @@
-{"_id":"v88YjiHVIp","author":"Mia Hamm","content":"I am building a fire, and everyday I train, I add more fuel. At just the right moment, I light the match.","tags":["Sports","Competition"],"authorSlug":"mia-hamm","length":105,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"ge3CMrnyX7ee","content":"Bad times have a scientific value. These are occasions a good learner would not miss.","author":"Ralph Waldo Emerson","tags":["Famous Quotes"],"authorSlug":"ralph-waldo-emerson","length":85,"dateAdded":"2020-12-10","dateModified":"2023-04-14"}
