@@ -1,1 +1,1 @@
-{"_id":"0Lp0Xv7xP2D","author":"The Buddha","content":"You yourself must strive. The Buddhas only point the way.","tags":["Wisdom","Motivational"],"authorSlug":"the-buddha","length":57,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
+{"_id":"o8Xc7pO8Y1aD","content":"The greatest minds are capable of the greatest vices as well as of the greatest virtues.","author":"René Descartes","tags":["Famous Quotes"],"authorSlug":"rene-descartes","length":88,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
