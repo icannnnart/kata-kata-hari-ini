@@ -1,1 +1,1 @@
-{"_id":"kCSK8XmyZT","content":"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.","author":"Samuel Johnson","tags":["Friendship"],"authorSlug":"samuel-johnson","length":103,"dateAdded":"2019-01-08","dateModified":"2023-04-14"}
+{"_id":"j68Sup53R1Eq","content":"Happiness resides not in possessions, and not in gold, happiness dwells in the soul.","author":"Democritus","tags":["Famous Quotes"],"authorSlug":"democritus","length":84,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
