@@ -1,1 +1,1 @@
-{"_id":"j68Sup53R1Eq","content":"Happiness resides not in possessions, and not in gold, happiness dwells in the soul.","author":"Democritus","tags":["Famous Quotes"],"authorSlug":"democritus","length":84,"dateAdded":"2021-05-05","dateModified":"2023-04-14"}
+{"_id":"5PlJhSuq70MI","content":"Self-trust is the first secret of success.","author":"Ralph Waldo Emerson","tags":["Success"],"authorSlug":"ralph-waldo-emerson","length":42,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
