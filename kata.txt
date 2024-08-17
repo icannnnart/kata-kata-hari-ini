@@ -1,1 +1,1 @@
-{"_id":"0Ny0rPtnM3","author":"Vince Lombardi","content":"Winners never quit and quitters never win.","tags":["Sports","Competition"],"authorSlug":"vince-lombardi","length":42,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"PYnVkG4UQGH7","content":"There is nothing on this earth more to be prized than true friendship.","author":"Thomas Aquinas","tags":["Famous Quotes","Friendship"],"authorSlug":"thomas-aquinas","length":70,"dateAdded":"2019-03-15","dateModified":"2023-04-14"}
