@@ -1,1 +1,1 @@
-{"_id":"7TDf0KqK6afE","content":"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.","author":"Immanuel Kant","tags":["Famous Quotes"],"authorSlug":"immanuel-kant","length":136,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
+{"_id":"xEYjoxqQhRfC","content":"A man is great by deeds, not by birth.","author":"Chanakya","tags":["Famous Quotes"],"authorSlug":"chanakya","length":38,"dateAdded":"2020-09-29","dateModified":"2023-04-14"}
