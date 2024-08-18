@@ -1,1 +1,1 @@
-{"_id":"_rEPkuDXaWo","author":"Casey Stengel","content":"Finding good players is easy. Getting them to play as a team is another story.","tags":["Sports","Competition"],"authorSlug":"casey-stengel","length":78,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"J-Q-UnpXS3G2","content":"The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty.","author":"Winston Churchill","tags":["Famous Quotes"],"authorSlug":"winston-churchill","length":106,"dateAdded":"2020-05-21","dateModified":"2023-04-14"}
