@@ -1,1 +1,1 @@
-{"_id":"QQDu56d67y","content":"Humanity is acquiring all the right technology for all the wrong reasons.","author":"Buckminster Fuller","tags":["Technology"],"authorSlug":"buckminster-fuller","length":73,"dateAdded":"2020-09-09","dateModified":"2023-04-14"}
+{"_id":"x1ekufax6w","author":"Jeff Bezos","content":"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.","tags":["Business"],"authorSlug":"jeff-bezos","length":110,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
