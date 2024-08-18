@@ -1,1 +1,1 @@
-{"_id":"McFK9Gq3OjO0","content":"When in doubt, tell the truth.","author":"Mark Twain","tags":["Famous Quotes"],"authorSlug":"mark-twain","length":30,"dateAdded":"2020-01-15","dateModified":"2023-04-14"}
+{"_id":"UG8slERojHSm","content":"We make a living by what we get, but we make a life by what we give.","author":"Winston Churchill","tags":["Famous Quotes"],"authorSlug":"winston-churchill","length":68,"dateAdded":"2020-03-27","dateModified":"2023-04-14"}
