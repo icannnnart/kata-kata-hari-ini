@@ -1,1 +1,1 @@
-{"_id":"G83dxdKwOL","content":"Along with success comes a reputation for wisdom.","author":"Euripides","tags":["Wisdom"],"authorSlug":"euripides","length":49,"dateAdded":"2020-04-14","dateModified":"2023-04-14"}
+{"_id":"z8jAHYsHEhL","content":"Happiness is found in doing, not merely possessing.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":51,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
