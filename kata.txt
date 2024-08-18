@@ -1,1 +1,1 @@
-{"_id":"RmeADLR8F3X2","content":"How wonderful it is that nobody need wait a single moment before starting to improve the world.","author":"Anne Frank","tags":["Famous Quotes"],"authorSlug":"anne-frank","length":95,"dateAdded":"2020-03-27","dateModified":"2023-04-14"}
+{"_id":"_rEPkuDXaWo","author":"Casey Stengel","content":"Finding good players is easy. Getting them to play as a team is another story.","tags":["Sports","Competition"],"authorSlug":"casey-stengel","length":78,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
