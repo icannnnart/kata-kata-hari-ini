@@ -1,1 +1,1 @@
-{"_id":"UG8slERojHSm","content":"We make a living by what we get, but we make a life by what we give.","author":"Winston Churchill","tags":["Famous Quotes"],"authorSlug":"winston-churchill","length":68,"dateAdded":"2020-03-27","dateModified":"2023-04-14"}
+{"_id":"P1qpVayN1l","author":"Winston Churchill","content":"A lie gets halfway around the world before the truth has a chance to get its pants on.","tags":["History","Politics","Wisdom"],"authorSlug":"winston-churchill","length":86,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
