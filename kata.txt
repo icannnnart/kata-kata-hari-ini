@@ -1,1 +1,1 @@
-{"_id":"4Fw5Fu7aOG","content":"Dost thou love life? Then do not squander time, for that is the stuff life is made of.","author":"Benjamin Franklin","tags":["Wisdom"],"authorSlug":"benjamin-franklin","length":86,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
+{"_id":"upj50_hSUD20","content":"Numberless are the worlds wonders, but none more wonderful than man.","author":"Sophocles","tags":["Famous Quotes"],"authorSlug":"sophocles","length":68,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
