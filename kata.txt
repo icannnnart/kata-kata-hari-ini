@@ -1,1 +1,1 @@
-{"_id":"9elExPH3DyRD","content":"The most formidable weapon against errors of every kind is reason.","author":"Thomas Paine","tags":["Famous Quotes"],"authorSlug":"thomas-paine","length":66,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
+{"_id":"_8rRJPvOl2we","content":"Truth, and goodness, and beauty are but different faces of the same all.","author":"Ralph Waldo Emerson","tags":["Famous Quotes"],"authorSlug":"ralph-waldo-emerson","length":72,"dateAdded":"2020-02-27","dateModified":"2023-04-14"}
