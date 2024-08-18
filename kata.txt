@@ -1,1 +1,1 @@
-{"_id":"4Ooefeml0d","content":"It's better to be a lion for a day than a sheep all your life.","author":"Elizabeth Kenny","tags":["Wisdom"],"authorSlug":"elizabeth-kenny","length":62,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
+{"_id":"E5RobFpin","content":"Start where you are. Use what you have. Do what you can.","author":"Arthur Ashe","tags":["Inspirational"],"authorSlug":"arthur-ashe","length":56,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
