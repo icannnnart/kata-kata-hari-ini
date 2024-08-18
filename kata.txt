@@ -1,1 +1,1 @@
-{"_id":"y222CIjPHls","content":"Argue for your limitations, and sure enough they're yours.","author":"Richard Bach","tags":["Famous Quotes"],"authorSlug":"richard-bach","length":58,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
+{"_id":"QQDu56d67y","content":"Humanity is acquiring all the right technology for all the wrong reasons.","author":"Buckminster Fuller","tags":["Technology"],"authorSlug":"buckminster-fuller","length":73,"dateAdded":"2020-09-09","dateModified":"2023-04-14"}
