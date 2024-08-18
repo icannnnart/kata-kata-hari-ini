@@ -1,1 +1,1 @@
-{"_id":"z8jAHYsHEhL","content":"Happiness is found in doing, not merely possessing.","author":"Napoleon Hill","tags":["Famous Quotes"],"authorSlug":"napoleon-hill","length":51,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"4AZF5nEIPN9","content":"To succeed, we must first believe that we can.","author":"Michael Korda","tags":["Famous Quotes"],"authorSlug":"michael-korda","length":46,"dateAdded":"2019-12-02","dateModified":"2023-04-14"}
