@@ -1,1 +1,1 @@
-{"_id":"OuOSAZxGADC","content":"The beginning of knowledge is the discovery of something we do not understand.","author":"Frank Herbert","tags":["Famous Quotes"],"authorSlug":"frank-herbert","length":78,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
+{"_id":"4Fw5Fu7aOG","content":"Dost thou love life? Then do not squander time, for that is the stuff life is made of.","author":"Benjamin Franklin","tags":["Wisdom"],"authorSlug":"benjamin-franklin","length":86,"dateAdded":"2020-11-13","dateModified":"2023-04-14"}
