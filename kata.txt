@@ -1,1 +1,1 @@
-{"_id":"Ch9s-ZfoMU","content":"I have learned that to be with those I like is enough.","author":"Walt Whitman","tags":["Friendship"],"authorSlug":"walt-whitman","length":54,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
+{"_id":"uHOBJQKgoPZ","content":"To avoid criticism, do nothing, say nothing, be nothing.","author":"Elbert Hubbard","tags":["Famous Quotes"],"authorSlug":"elbert-hubbard","length":56,"dateAdded":"2020-09-05","dateModified":"2023-04-14"}
