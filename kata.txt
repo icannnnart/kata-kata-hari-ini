@@ -1,1 +1,1 @@
-{"_id":"MPTVFOHP7ds","author":"The Buddha","content":"The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.","tags":["Wisdom","Philosophy"],"authorSlug":"the-buddha","length":111,"dateAdded":"2023-03-30","dateModified":"2023-04-14"}
+{"_id":"OuOSAZxGADC","content":"The beginning of knowledge is the discovery of something we do not understand.","author":"Frank Herbert","tags":["Famous Quotes"],"authorSlug":"frank-herbert","length":78,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
