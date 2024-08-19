@@ -1,1 +1,1 @@
-{"_id":"fmyyfiC5cJL2","content":"Things turn out best for those who make the best of the way things turn out.","author":"Jack Buck","tags":["Famous Quotes"],"authorSlug":"jack-buck","length":76,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
+{"_id":"t6j0hQKmXbM9","content":"The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.","author":"Anaïs Nin","tags":["Famous Quotes","Inspirational"],"authorSlug":"anais-nin","length":116,"dateAdded":"2020-12-10","dateModified":"2023-04-14"}
