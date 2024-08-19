@@ -1,1 +1,1 @@
-{"_id":"5UaK7cijxqOE","content":"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?","author":"Richard Bach","tags":["Love","Friendship"],"authorSlug":"richard-bach","length":111,"dateAdded":"2019-02-13","dateModified":"2023-04-14"}
+{"_id":"x9kAYDPv-Rz","content":"Important principles may, and must, be inflexible.","author":"Abraham Lincoln","tags":["Famous Quotes"],"authorSlug":"abraham-lincoln","length":50,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
