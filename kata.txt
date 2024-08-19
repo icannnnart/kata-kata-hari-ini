@@ -1,1 +1,1 @@
-{"_id":"McFK9Gq3OjO0","content":"When in doubt, tell the truth.","author":"Mark Twain","tags":["Famous Quotes"],"authorSlug":"mark-twain","length":30,"dateAdded":"2020-01-15","dateModified":"2023-04-14"}
+{"_id":"yP11lreUJUGB","content":"By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":134,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
