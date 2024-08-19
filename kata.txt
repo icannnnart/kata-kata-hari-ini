@@ -1,1 +1,1 @@
-{"_id":"x9kAYDPv-Rz","content":"Important principles may, and must, be inflexible.","author":"Abraham Lincoln","tags":["Famous Quotes"],"authorSlug":"abraham-lincoln","length":50,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
+{"_id":"J1amO36TwbX8","content":"You can't blame gravity for falling in love.","author":"Albert Einstein","tags":["Famous Quotes","Humorous"],"authorSlug":"albert-einstein","length":44,"dateAdded":"2021-05-12","dateModified":"2023-04-14"}
