@@ -1,1 +1,1 @@
-{"_id":"4Q7v92RUbie","content":"None knows the weight of another's burden.","author":"George Herbert","tags":["Wisdom"],"authorSlug":"george-herbert","length":42,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
+{"_id":"3-iBAZN0jrh","content":"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.","author":"Ezra Stiles","tags":["Wisdom"],"authorSlug":"ezra-stiles","length":115,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
