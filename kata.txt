@@ -1,1 +1,1 @@
-{"_id":"u5Fb0THaH9d","content":"Reality does not conform to the ideal but confirms it.","author":"Gustave Flaubert","tags":["Famous Quotes"],"authorSlug":"gustave-flaubert","length":54,"dateAdded":"2019-03-17","dateModified":"2023-04-14"}
+{"_id":"loN2E0LaNo","content":"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.","author":"Nelson Mandela","tags":["Wisdom"],"authorSlug":"nelson-mandela","length":133,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
