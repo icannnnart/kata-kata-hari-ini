@@ -1,1 +1,1 @@
-{"_id":"-WcH-6LA9SC","content":"Who looks outside, dreams, who looks inside, awakes.","author":"Carl Jung","tags":["Famous Quotes"],"authorSlug":"carl-jung","length":52,"dateAdded":"2020-12-08","dateModified":"2023-04-14"}
+{"_id":"xqpuo_rjf_1g","content":"To dare is to lose ones footing momentarily. To not dare is to lose oneself.","author":"Søren Kierkegaard","tags":["Famous Quotes"],"authorSlug":"soren-kierkegaard","length":76,"dateAdded":"2021-01-11","dateModified":"2023-04-14"}
