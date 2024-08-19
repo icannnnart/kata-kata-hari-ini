@@ -1,1 +1,1 @@
-{"_id":"S7VBLnPG-q","content":"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?","author":"Friedrich Nietzsche","tags":["Wisdom"],"authorSlug":"friedrich-nietzsche","length":93,"dateAdded":"2019-12-02","dateModified":"2023-04-14"}
+{"_id":"ARKzsqVpFY","content":"Two persons cannot long be friends if they cannot forgive each other's little failings.","author":"Jean de La Bruyère","tags":["Friendship"],"authorSlug":"jean-de-la-bruyere","length":87,"dateAdded":"2021-05-12","dateModified":"2023-04-14"}
