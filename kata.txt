@@ -1,1 +1,1 @@
-{"_id":"ARKzsqVpFY","content":"Two persons cannot long be friends if they cannot forgive each other's little failings.","author":"Jean de La Bruyère","tags":["Friendship"],"authorSlug":"jean-de-la-bruyere","length":87,"dateAdded":"2021-05-12","dateModified":"2023-04-14"}
+{"_id":"mZAy5rJ2tW","content":"The greater our knowledge increases the more our ignorance unfolds.","author":"John F. Kennedy","tags":["Wisdom"],"authorSlug":"john-f-kennedy","length":67,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
