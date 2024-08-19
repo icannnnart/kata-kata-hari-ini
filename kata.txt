@@ -1,1 +1,1 @@
-{"_id":"3-iBAZN0jrh","content":"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.","author":"Ezra Stiles","tags":["Wisdom"],"authorSlug":"ezra-stiles","length":115,"dateAdded":"2019-10-12","dateModified":"2023-04-14"}
+{"_id":"favYAKme1n","content":"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.","author":"Yolanda Hadid","tags":["Friendship"],"authorSlug":"yolanda-hadid","length":118,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
