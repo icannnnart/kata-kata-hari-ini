@@ -1,1 +1,1 @@
-{"_id":"3dgyDeYuO_m8","content":"When one tugs at a single thing in nature, he finds it attached to the rest of the world.","author":"John Muir","tags":["Famous Quotes"],"authorSlug":"john-muir","length":89,"dateAdded":"2020-01-12","dateModified":"2023-04-14"}
+{"_id":"0mvbtxiIrRtQ","content":"When I let go of what I am, I become what I might be.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":53,"dateAdded":"2021-01-19","dateModified":"2023-04-14"}
