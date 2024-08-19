@@ -1,1 +1,1 @@
-{"_id":"a_MqBnMhXblP","content":"Only those who dare to fail greatly can ever achieve greatly.","author":"Robert F. Kennedy","tags":["Famous Quotes"],"authorSlug":"robert-f-kennedy","length":61,"dateAdded":"2019-03-15","dateModified":"2023-04-14"}
+{"_id":"FGX8aUpiiS5z","content":"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.","author":"G. K. Chesterton","tags":["Wisdom"],"authorSlug":"g-k-chesterton","length":125,"dateAdded":"2020-04-14","dateModified":"2023-04-14"}
