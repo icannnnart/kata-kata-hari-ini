@@ -1,1 +1,1 @@
-{"_id":"J1amO36TwbX8","content":"You can't blame gravity for falling in love.","author":"Albert Einstein","tags":["Famous Quotes","Humorous"],"authorSlug":"albert-einstein","length":44,"dateAdded":"2021-05-12","dateModified":"2023-04-14"}
+{"_id":"yCY2q20UK4Uf","content":"Let us sacrifice our today so that our children can have a better tomorrow.","author":"A. P. J. Abdul Kalam","tags":["Famous Quotes","Inspirational"],"authorSlug":"a-p-j-abdul-kalam","length":75,"dateAdded":"2020-11-10","dateModified":"2023-04-14"}
