@@ -1,1 +1,1 @@
-{"_id":"mZAy5rJ2tW","content":"The greater our knowledge increases the more our ignorance unfolds.","author":"John F. Kennedy","tags":["Wisdom"],"authorSlug":"john-f-kennedy","length":67,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
+{"_id":"fmyyfiC5cJL2","content":"Things turn out best for those who make the best of the way things turn out.","author":"Jack Buck","tags":["Famous Quotes"],"authorSlug":"jack-buck","length":76,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
