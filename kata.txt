@@ -1,1 +1,1 @@
-{"_id":"0mvbtxiIrRtQ","content":"When I let go of what I am, I become what I might be.","author":"Laozi","tags":["Wisdom"],"authorSlug":"laozi","length":53,"dateAdded":"2021-01-19","dateModified":"2023-04-14"}
+{"_id":"tpmH-IxHDP-I","content":"Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.","author":"Richard Needham","tags":["Famous Quotes"],"authorSlug":"richard-needham","length":170,"dateAdded":"2019-06-27","dateModified":"2023-04-14"}
