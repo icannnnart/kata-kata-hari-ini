@@ -1,1 +1,1 @@
-{"_id":"favYAKme1n","content":"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.","author":"Yolanda Hadid","tags":["Friendship"],"authorSlug":"yolanda-hadid","length":118,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
+{"_id":"B9UxMLiqU9H8","content":"Beware of missing chances; otherwise it may be altogether too late someday.","author":"Franz Liszt","tags":["Famous Quotes"],"authorSlug":"franz-liszt","length":75,"dateAdded":"2020-03-01","dateModified":"2023-04-14"}
