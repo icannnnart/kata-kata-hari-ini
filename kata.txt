@@ -1,1 +1,1 @@
-{"_id":"xqpuo_rjf_1g","content":"To dare is to lose ones footing momentarily. To not dare is to lose oneself.","author":"Søren Kierkegaard","tags":["Famous Quotes"],"authorSlug":"soren-kierkegaard","length":76,"dateAdded":"2021-01-11","dateModified":"2023-04-14"}
+{"_id":"S7VBLnPG-q","content":"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?","author":"Friedrich Nietzsche","tags":["Wisdom"],"authorSlug":"friedrich-nietzsche","length":93,"dateAdded":"2019-12-02","dateModified":"2023-04-14"}
