@@ -1,1 +1,1 @@
-{"_id":"FGX8aUpiiS5z","content":"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.","author":"G. K. Chesterton","tags":["Wisdom"],"authorSlug":"g-k-chesterton","length":125,"dateAdded":"2020-04-14","dateModified":"2023-04-14"}
+{"_id":"DiIyvrMPCZUK","content":"The universe is full of magical things, patiently waiting for our wits to grow sharper.","author":"Eden Phillpotts","tags":["Wisdom"],"authorSlug":"eden-phillpotts","length":87,"dateAdded":"2019-01-14","dateModified":"2023-04-14"}
