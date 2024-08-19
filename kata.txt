@@ -1,1 +1,1 @@
-{"_id":"loN2E0LaNo","content":"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.","author":"Nelson Mandela","tags":["Wisdom"],"authorSlug":"nelson-mandela","length":133,"dateAdded":"2020-10-29","dateModified":"2023-04-14"}
+{"_id":"McFK9Gq3OjO0","content":"When in doubt, tell the truth.","author":"Mark Twain","tags":["Famous Quotes"],"authorSlug":"mark-twain","length":30,"dateAdded":"2020-01-15","dateModified":"2023-04-14"}
