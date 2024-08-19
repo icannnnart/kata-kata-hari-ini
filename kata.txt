@@ -1,1 +1,1 @@
-{"_id":"7C2TU6MIz9o_","content":"I'm not interested in age. People who tell me their age are silly. You're as old as you feel.","author":"Elizabeth Arden","tags":["Famous Quotes"],"authorSlug":"elizabeth-arden","length":93,"dateAdded":"2021-03-08","dateModified":"2023-04-14"}
+{"_id":"4Q7v92RUbie","content":"None knows the weight of another's burden.","author":"George Herbert","tags":["Wisdom"],"authorSlug":"george-herbert","length":42,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
