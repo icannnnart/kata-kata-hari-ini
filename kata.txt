@@ -1,1 +1,1 @@
-{"_id":"dYKQx6tn7k-y","content":"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.","author":"Satchel Paige","tags":["Famous Quotes","Wisdom"],"authorSlug":"satchel-paige","length":99,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
+{"_id":"cOuSBYiscf","author":"Albert Einstein","content":"I never think of the future - it comes soon enough.","tags":["Future"],"authorSlug":"albert-einstein","length":51,"dateAdded":"2023-04-06","dateModified":"2023-04-14"}
