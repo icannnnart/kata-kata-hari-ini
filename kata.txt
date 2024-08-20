@@ -1,1 +1,1 @@
-{"_id":"8NJSVJipgn","author":"Robert Schuller","content":"Problems are not stop signs, they are guidelines.","tags":["Motivational"],"authorSlug":"robert-schuller","length":49,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"dYKQx6tn7k-y","content":"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.","author":"Satchel Paige","tags":["Famous Quotes","Wisdom"],"authorSlug":"satchel-paige","length":99,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
