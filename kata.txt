@@ -1,1 +1,1 @@
-{"_id":"Yk5zlxPAS_M7","content":"I hear and I forget. I see and I remember. I do and I understand.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":65,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
+{"_id":"xH7XN__m5y","content":"We can only learn to love by loving.","author":"Iris Murdoch","tags":["Famous Quotes"],"authorSlug":"iris-murdoch","length":36,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
