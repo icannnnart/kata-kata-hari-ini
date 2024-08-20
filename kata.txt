@@ -1,1 +1,1 @@
-{"_id":"IcEZdEWfRppj","content":"I begin with an idea and then it becomes something else.","author":"Pablo Picasso","tags":["Famous Quotes"],"authorSlug":"pablo-picasso","length":56,"dateAdded":"2020-04-02","dateModified":"2023-04-14"}
+{"_id":"MdvEKmt1-ycy","content":"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.","author":"Whoopi Goldberg","tags":["Famous Quotes"],"authorSlug":"whoopi-goldberg","length":117,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
