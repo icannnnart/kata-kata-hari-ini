@@ -1,1 +1,1 @@
-{"_id":"KBk2VabfrRne","content":"The possibilities are numerous once we decide to act and not react.","author":"George Bernard Shaw","tags":["Famous Quotes"],"authorSlug":"george-bernard-shaw","length":67,"dateAdded":"2019-09-23","dateModified":"2023-04-14"}
+{"_id":"rypL5kmdIg8","content":"A really great talent finds its happiness in execution.","author":"Johann Wolfgang von Goethe","tags":["Famous Quotes","Happiness"],"authorSlug":"johann-wolfgang-von-goethe","length":55,"dateAdded":"2020-07-10","dateModified":"2023-04-14"}
