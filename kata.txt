@@ -1,1 +1,1 @@
-{"_id":"58SXM3nFriy8","content":"Success is not final; failure is not fatal: it is the courage to continue that counts.","author":"Winston Churchill","tags":["Success"],"authorSlug":"winston-churchill","length":86,"dateAdded":"2020-03-07","dateModified":"2023-04-14"}
+{"_id":"-wz9LjinT4y9","content":"It is fatal to enter any war without the will to win it.","author":"Douglas MacArthur","tags":["Famous Quotes"],"authorSlug":"douglas-mac-arthur","length":56,"dateAdded":"2021-04-23","dateModified":"2023-04-14"}
