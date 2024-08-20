@@ -1,1 +1,1 @@
-{"_id":"1YubdPwZ3e","content":"It is good even for old men to learn wisdom.","author":"Aeschylus","tags":["Wisdom"],"authorSlug":"aeschylus","length":44,"dateAdded":"2019-09-13","dateModified":"2023-04-14"}
+{"_id":"Yk5zlxPAS_M7","content":"I hear and I forget. I see and I remember. I do and I understand.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":65,"dateAdded":"2021-03-26","dateModified":"2023-04-14"}
