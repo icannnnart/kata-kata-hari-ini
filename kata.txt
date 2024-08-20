@@ -1,1 +1,1 @@
-{"_id":"grgyy9zb0RLb","content":"They say that time changes things, but you actually have to change them yourself.","author":"Andy Warhol","tags":["Change","Wisdom"],"authorSlug":"andy-warhol","length":81,"dateAdded":"2019-09-13","dateModified":"2023-04-14"}
+{"_id":"NsDoqkwD8ysy","content":"Reviewing what you have learned and learning anew, you are fit to be a teacher.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":79,"dateAdded":"2020-03-15","dateModified":"2023-04-14"}
