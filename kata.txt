@@ -1,1 +1,1 @@
-{"_id":"GbjRau4Ef2cZ","content":"When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.","author":"Confucius","tags":["Wisdom"],"authorSlug":"confucius","length":170,"dateAdded":"2020-03-11","dateModified":"2023-04-14"}
+{"_id":"1YubdPwZ3e","content":"It is good even for old men to learn wisdom.","author":"Aeschylus","tags":["Wisdom"],"authorSlug":"aeschylus","length":44,"dateAdded":"2019-09-13","dateModified":"2023-04-14"}
