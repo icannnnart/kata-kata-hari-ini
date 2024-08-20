@@ -1,1 +1,1 @@
-{"_id":"fKsykJ99k","author":"Abraham Lincoln","content":"You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.","tags":["Wisdom"],"authorSlug":"abraham-lincoln","length":131,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
+{"_id":"oBIkrfaDDlb0","content":"The bird of paradise alights only upon the hand that does not grasp.","author":"John Berry","tags":["Famous Quotes"],"authorSlug":"john-berry","length":68,"dateAdded":"2020-01-27","dateModified":"2023-04-14"}
