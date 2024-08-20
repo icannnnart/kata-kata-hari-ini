@@ -1,1 +1,1 @@
-{"_id":"-wz9LjinT4y9","content":"It is fatal to enter any war without the will to win it.","author":"Douglas MacArthur","tags":["Famous Quotes"],"authorSlug":"douglas-mac-arthur","length":56,"dateAdded":"2021-04-23","dateModified":"2023-04-14"}
+{"_id":"E5RobFpin","content":"Start where you are. Use what you have. Do what you can.","author":"Arthur Ashe","tags":["Inspirational"],"authorSlug":"arthur-ashe","length":56,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
