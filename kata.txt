@@ -1,1 +1,1 @@
-{"_id":"E5RobFpin","content":"Start where you are. Use what you have. Do what you can.","author":"Arthur Ashe","tags":["Inspirational"],"authorSlug":"arthur-ashe","length":56,"dateAdded":"2019-10-03","dateModified":"2023-04-14"}
+{"_id":"72cQQpoOS_","content":"All this worldly wisdom was once the unamiable heresy of some wise man.","author":"Henry David Thoreau","tags":["Wisdom"],"authorSlug":"henry-david-thoreau","length":71,"dateAdded":"2020-04-15","dateModified":"2023-04-14"}
