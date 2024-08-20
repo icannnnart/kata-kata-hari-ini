@@ -1,1 +1,1 @@
-{"_id":"xH7XN__m5y","content":"We can only learn to love by loving.","author":"Iris Murdoch","tags":["Famous Quotes"],"authorSlug":"iris-murdoch","length":36,"dateAdded":"2020-01-26","dateModified":"2023-04-14"}
+{"_id":"IcEZdEWfRppj","content":"I begin with an idea and then it becomes something else.","author":"Pablo Picasso","tags":["Famous Quotes"],"authorSlug":"pablo-picasso","length":56,"dateAdded":"2020-04-02","dateModified":"2023-04-14"}
