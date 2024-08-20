@@ -1,1 +1,1 @@
-{"_id":"2cUIpG3YEr8","content":"Character develops itself in the stream of life.","author":"Johann Wolfgang von Goethe","tags":["Famous Quotes","Life"],"authorSlug":"johann-wolfgang-von-goethe","length":48,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
+{"_id":"quPFG0dg3QKy","content":"You really can change the world if you care enough.","author":"Marian Wright Edelman","tags":["Change","Wisdom"],"authorSlug":"marian-wright-edelman","length":51,"dateAdded":"2019-07-03","dateModified":"2023-04-14"}
