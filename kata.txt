@@ -1,1 +1,1 @@
-{"_id":"DiIyvrMPCZUK","content":"The universe is full of magical things, patiently waiting for our wits to grow sharper.","author":"Eden Phillpotts","tags":["Wisdom"],"authorSlug":"eden-phillpotts","length":87,"dateAdded":"2019-01-14","dateModified":"2023-04-14"}
+{"_id":"2cUIpG3YEr8","content":"Character develops itself in the stream of life.","author":"Johann Wolfgang von Goethe","tags":["Famous Quotes","Life"],"authorSlug":"johann-wolfgang-von-goethe","length":48,"dateAdded":"2020-10-14","dateModified":"2023-04-14"}
