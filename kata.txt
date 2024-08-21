@@ -1,1 +1,1 @@
-{"_id":"_Ai5yulUS-s0","content":"People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.","author":"Tony Robbins","tags":["Famous Quotes"],"authorSlug":"tony-robbins","length":95,"dateAdded":"2020-02-07","dateModified":"2023-04-14"}
+{"_id":"SP7hRDnqmC0M","content":"The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.","author":"Dalai Lama","tags":["Famous Quotes","Character"],"authorSlug":"dalai-lama","length":111,"dateAdded":"2019-02-11","dateModified":"2023-04-14"}
