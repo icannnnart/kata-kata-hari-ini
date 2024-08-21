@@ -1,1 +1,1 @@
-{"_id":"k3s9mCR6CK","content":"Friendship, like the immortality of the soul, is too good to be believed.","author":"Ralph Waldo Emerson","tags":["Friendship"],"authorSlug":"ralph-waldo-emerson","length":73,"dateAdded":"2020-08-27","dateModified":"2023-04-14"}
+{"_id":"Lpf8FgZIUNqR","content":"Know, first, who you are, and then adorn yourself accordingly.","author":"Epictetus","tags":["Famous Quotes"],"authorSlug":"epictetus","length":62,"dateAdded":"2020-11-10","dateModified":"2023-04-14"}
