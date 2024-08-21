@@ -1,1 +1,1 @@
-{"_id":"uraOlla6vVZW","content":"Your attitude, not your aptitude, will determine your altitude.","author":"Zig Ziglar","tags":["Famous Quotes"],"authorSlug":"zig-ziglar","length":63,"dateAdded":"2020-09-29","dateModified":"2023-04-14"}
+{"_id":"OATcVT3HPV","content":"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.","author":"Kahlil Gibran","tags":["Wisdom"],"authorSlug":"kahlil-gibran","length":124,"dateAdded":"2021-05-07","dateModified":"2023-04-14"}
