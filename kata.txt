@@ -1,1 +1,1 @@
-{"_id":"cOuSBYiscf","author":"Albert Einstein","content":"I never think of the future - it comes soon enough.","tags":["Future"],"authorSlug":"albert-einstein","length":51,"dateAdded":"2023-04-06","dateModified":"2023-04-14"}
+{"_id":"4Q7v92RUbie","content":"None knows the weight of another's burden.","author":"George Herbert","tags":["Wisdom"],"authorSlug":"george-herbert","length":42,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
