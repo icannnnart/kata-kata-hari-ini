@@ -1,1 +1,1 @@
-{"_id":"MCaYdNBRu3VH","content":"Everything that irritates us about others can lead us to an understanding of ourselves.","author":"Carl Jung","tags":["Famous Quotes","Wisdom"],"authorSlug":"carl-jung","length":87,"dateAdded":"2020-04-14","dateModified":"2023-04-14"}
+{"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","tags":["Famous Quotes"],"authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
