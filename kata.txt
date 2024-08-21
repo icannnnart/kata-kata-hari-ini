@@ -1,1 +1,1 @@
-{"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","tags":["Famous Quotes"],"authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
+{"_id":"d4my6t1iI1q1","content":"The truth of the matter is that you always know the right thing to do. The hard part is doing it.","author":"Norman Schwarzkopf","tags":["Famous Quotes"],"authorSlug":"norman-schwarzkopf","length":97,"dateAdded":"2021-01-11","dateModified":"2023-04-14"}
