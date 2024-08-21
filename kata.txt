@@ -1,1 +1,1 @@
-{"_id":"Juy6Vkv1y9V2","content":"In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.","author":"The Buddha","tags":["Wisdom"],"authorSlug":"the-buddha","length":150,"dateAdded":"2021-02-27","dateModified":"2023-04-14"}
+{"_id":"jFcxLEUS2zO","content":"Pick battles big enough to matter, small enough to win.","author":"Jonathan Kozol","tags":["Famous Quotes","Wisdom"],"authorSlug":"jonathan-kozol","length":55,"dateAdded":"2019-01-08","dateModified":"2023-04-14"}
