@@ -1,1 +1,1 @@
-{"_id":"61fgPzU6BeYY","content":"No man can succeed in a line of endeavor which he does not like.","author":"Napoleon Hill","tags":["Success"],"authorSlug":"napoleon-hill","length":64,"dateAdded":"2019-02-11","dateModified":"2023-04-14"}
+{"_id":"k3s9mCR6CK","content":"Friendship, like the immortality of the soul, is too good to be believed.","author":"Ralph Waldo Emerson","tags":["Friendship"],"authorSlug":"ralph-waldo-emerson","length":73,"dateAdded":"2020-08-27","dateModified":"2023-04-14"}
