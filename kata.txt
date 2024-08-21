@@ -1,1 +1,1 @@
-{"_id":"_WfHG0pIS0","author":"W. Clement Stone","content":"Aim for the moon. If you miss, you may hit a star.","tags":["Motivational"],"authorSlug":"w-clement-stone","length":50,"dateAdded":"2022-07-06","dateModified":"2023-04-14"}
+{"_id":"fAwdyK83zhE","content":"Efficiency is doing things right; effectiveness is doing the right things.","author":"Peter Drucker","tags":["Famous Quotes"],"authorSlug":"peter-drucker","length":74,"dateAdded":"2021-04-08","dateModified":"2023-04-14"}
