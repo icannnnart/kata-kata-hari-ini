@@ -1,1 +1,1 @@
-{"_id":"4Q7v92RUbie","content":"None knows the weight of another's burden.","author":"George Herbert","tags":["Wisdom"],"authorSlug":"george-herbert","length":42,"dateAdded":"2020-06-24","dateModified":"2023-04-14"}
+{"_id":"qEtZ0iATJh","content":"Friends... they cherish one another's hopes. They are kind to one another's dreams.","author":"Henry David Thoreau","tags":["Friendship"],"authorSlug":"henry-david-thoreau","length":83,"dateAdded":"2020-02-27","dateModified":"2023-04-14"}
