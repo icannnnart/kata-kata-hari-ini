@@ -1,1 +1,0 @@
-{"_id":"fAwdyK83zhE","content":"Efficiency is doing things right; effectiveness is doing the right things.","author":"Peter Drucker","tags":["Famous Quotes"],"authorSlug":"peter-drucker","length":74,"dateAdded":"2021-04-08","dateModified":"2023-04-14"}
