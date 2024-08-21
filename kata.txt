@@ -1,1 +1,1 @@
-{"_id":"oek95eM62B","author":"Alan Watts","content":"You and I are all as much continuous with the physical universe as a wave is continuous with the ocean.","tags":["Philosophy"],"authorSlug":"alan-watts","length":103,"dateAdded":"2022-03-12","dateModified":"2023-04-14"}
+{"_id":"305CvwuKqye","content":"The heart has its reasons which reason knows not of.","author":"Blaise Pascal","tags":["Famous Quotes"],"authorSlug":"blaise-pascal","length":52,"dateAdded":"2021-01-20","dateModified":"2023-04-14"}
